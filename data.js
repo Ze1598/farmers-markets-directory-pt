@@ -42,7 +42,8 @@ let farmersMarkets = [
             "Online Order Pickup",
             "Delivery Available",
             "Organic Products"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado dos Lavradores (farmers' market)",
@@ -75,7 +76,8 @@ let farmersMarkets = [
             "On-Site Services",
             "Paid Parking Lot",
             "Food Served"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"7am-7pm\", \"Tuesday\": \"7am-7pm\", \"Wednesday\": \"7am-7pm\", \"Thursday\": \"7am-7pm\", \"Friday\": \"7am-7pm\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Agrícola de Santana",
@@ -96,7 +98,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico do Principe Real",
@@ -118,7 +121,8 @@ let farmersMarkets = [
             "Mobile Payments",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Organic Market Agrobio - Nations Park",
@@ -138,7 +142,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - São Vicente",
@@ -156,7 +161,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Campo Pequeno",
@@ -175,7 +181,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Parque das Nações Sul",
@@ -193,7 +200,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Cascais",
@@ -212,7 +220,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Herdade da Falcoeira",
@@ -233,7 +242,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Feira Livre de Bragança",
@@ -253,7 +263,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"8am-1pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Warehouse Farmer, Farmer Financial Services Ltd",
@@ -283,7 +294,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Restroom",
             "No Wheelchair Accessible Seating",
             "On-Site Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 230-630-pm\", \"Tuesday\": \"9am-1pm, 230-630-pm\", \"Wednesday\": \"9am-1pm, 230-630-pm\", \"Thursday\": \"9am-1pm, 230-630-pm\", \"Friday\": \"9am-1pm, 230-630-pm\", \"Saturday\": \"9am-1pm, 230-630-pm\", \"Sunday\": \"230-630-pm\"}"
     },
     {
         "Project Name": "Natureza Azul",
@@ -301,7 +313,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Manuel Meles, Lda",
@@ -324,7 +337,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6-pm\", \"Thursday\": \"8:30am-12:30pm, 2-6-pm\", \"Friday\": \"8:30am-12:30pm, 2-6-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "BioApis - Apicultura Biológica, Lda.",
@@ -343,7 +357,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-6pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Porto Belo",
@@ -364,7 +379,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-7pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Feira de Produtos Biológicos do Porto",
@@ -385,7 +401,8 @@ let farmersMarkets = [
             "Mobile Payments",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Agro-Matias",
@@ -409,7 +426,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-7-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-7-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-7-pm\", \"Thursday\": \"8:30am-12:30pm, 2-7-pm\", \"Friday\": \"8:30am-12:30pm, 2-7-pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Casa Caldas - Produtos Agrícolas,LDA",
@@ -436,7 +454,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-7-pm\", \"Tuesday\": \"8am-12:30pm, 2-7-pm\", \"Wednesday\": \"8am-12:30pm, 2-7-pm\", \"Thursday\": \"8am-12:30pm, 2-7-pm\", \"Friday\": \"8am-12:30pm, 2-7-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Horta do Besouro",
@@ -456,7 +475,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Ed Pinheiro Torres & Irmãos Lda",
@@ -476,7 +496,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12pm, 2-630-pm\", \"Tuesday\": \"8:30am-12pm, 2-630-pm\", \"Wednesday\": \"8:30am-12pm, 2-630-pm\", \"Thursday\": \"8:30am-12pm, 2-630-pm\", \"Friday\": \"8:30am-12pm, 2-630-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Hidroplay.EU.lda",
@@ -495,7 +516,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-6:30pm\", \"Tuesday\": \"9am-6:30pm\", \"Wednesday\": \"9am-6:30pm\", \"Thursday\": \"9am-6:30pm\", \"Friday\": \"9am-6:30pm\", \"Saturday\": \"10am-6:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Village Farm - Santa Margarida da Coutada",
@@ -514,7 +536,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-5pm\", \"Tuesday\": \"9am-5pm\", \"Wednesday\": \"9am-5pm\", \"Thursday\": \"9am-5pm\", \"Friday\": \"9am-5pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "AVDC - Associação de Viveiristas do Distrito de Coimbra",
@@ -533,7 +556,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-6pm\", \"Tuesday\": \"8am-6pm\", \"Wednesday\": \"8am-6pm\", \"Thursday\": \"8am-6pm\", \"Friday\": \"8am-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Lagoa de Albufeira market",
@@ -553,7 +577,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1pm\", \"Wednesday\": \"7am-1pm\", \"Thursday\": \"7am-1pm\", \"Friday\": \"7am-1pm\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"7am-1pm\"}"
     },
     {
         "Project Name": "Cooperativa de Viticultores e Oliviticultores de Freixo de Numão CRL",
@@ -572,7 +597,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Expo-Agrícola e Artesanal da Ponta do Sol",
@@ -590,7 +616,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "O Prado - Hernâni Pinto & Filhos Lda",
@@ -610,7 +637,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado da Reforma Agrária",
@@ -629,7 +657,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"7am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercadinho de Estremoz",
@@ -650,7 +679,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado de Verduras",
@@ -669,7 +699,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7am-2pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Labronso & Filhos, Lda // Mercearia - Bricolagem - Agricultura",
@@ -688,7 +719,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Credit Cards"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"9am-1pm\"}"
     },
     {
         "Project Name": "Quinta do Meloal (CAS lda)",
@@ -707,7 +739,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Campo da Feira",
@@ -726,7 +759,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado de Vila Nova de Milfontes",
@@ -748,7 +782,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8:30am-2pm\", \"Wednesday\": \"8:30am-2pm\", \"Thursday\": \"8:30am-2pm\", \"Friday\": \"8:30am-2pm\", \"Saturday\": \"8:30am-2pm\", \"Sunday\": \"8:30am-2pm\"}"
     },
     {
         "Project Name": "Mercado Municipal",
@@ -764,7 +799,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Drogaria Feira Nova - Manuel Moreira & Cª, Lda",
@@ -796,7 +832,8 @@ let farmersMarkets = [
             "Mobile Payments",
             "Quick Visit Friendly",
             "Delivery Available"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-7-pm\", \"Tuesday\": \"8am-12:30pm, 2-7-pm\", \"Wednesday\": \"8am-12:30pm, 2-7-pm\", \"Thursday\": \"8am-12:30pm, 2-7-pm\", \"Friday\": \"8am-12:30pm, 2-7-pm\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Húmus Agricultura Biológica",
@@ -820,7 +857,8 @@ let farmersMarkets = [
             "In-Store Shopping",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"10am-7pm\", \"Wednesday\": \"10am-7pm\", \"Thursday\": \"10am-7pm\", \"Friday\": \"10am-7:30pm\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico de Matosinhos",
@@ -838,7 +876,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Agro Oliveira",
@@ -857,7 +896,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Pagromil",
@@ -876,7 +916,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Credit Cards",
             "Debit Cards"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-6:30pm\", \"Tuesday\": \"8:30am-6:30pm\", \"Wednesday\": \"8:30am-6:30pm\", \"Thursday\": \"8:30am-6:30pm\", \"Friday\": \"8:30am-6:30pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Frutaria da Rosinha",
@@ -892,7 +933,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Berrylima, Lda",
@@ -911,7 +953,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "S.E.E.D - Sociedade Europeia de Exportação e Distribuição, S.A.",
@@ -933,7 +976,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12pm, 2-7-pm\", \"Tuesday\": \"9am-12pm, 2-7-pm\", \"Wednesday\": \"9am-12pm, 2-7-pm\", \"Thursday\": \"9am-12pm, 2-7-pm\", \"Friday\": \"9am-12pm, 2-7-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Casa da Lavoura José Eugénio Prod. Agric. Jardinagem, Unipessoal, Lda.",
@@ -952,7 +996,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-530-pm\", \"Tuesday\": \"9am-1pm, 3-530-pm\", \"Wednesday\": \"9am-1pm, 3-530-pm\", \"Thursday\": \"9am-1pm, 3-530-pm\", \"Friday\": \"9am-1pm, 3-530-pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "NETRURAL Comércio De Produtos Agro-Pecuários, LDA",
@@ -975,7 +1020,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 2-7-pm\", \"Tuesday\": \"9am-12:30pm, 2-7-pm\", \"Wednesday\": \"9am-12:30pm, 2-7-pm\", \"Thursday\": \"9am-12:30pm, 2-7-pm\", \"Friday\": \"9am-12:30pm, 2-7-pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado do Calhabé",
@@ -997,7 +1043,8 @@ let farmersMarkets = [
             "Mobile Payments",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Planafarm",
@@ -1017,7 +1064,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Loures",
@@ -1033,7 +1081,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"7am-12pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Sociedade Agrícola Carlos Pinheiro, Lda.",
@@ -1051,7 +1100,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1:30pm, 230-6-pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Ana Maria Fidalgo",
@@ -1067,7 +1117,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Amadora",
@@ -1086,7 +1137,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Debit Cards",
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado Abastecedor de Aveiro",
@@ -1105,7 +1157,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"5-11-pm\", \"Tuesday\": \"Closed\", \"Wednesday\": \"5-11-pm\", \"Thursday\": \"Closed\", \"Friday\": \"5-11-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Municipal de Ílhavo",
@@ -1126,7 +1179,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "Wheelchair Accessible Restroom"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7am-1pm\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Quinta dos 5 Outeiros",
@@ -1146,7 +1200,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "David Grilo Lda",
@@ -1165,7 +1220,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Parking",
             "Women Owned"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-5:30pm\", \"Tuesday\": \"8:30am-5:30pm\", \"Wednesday\": \"8:30am-5:30pm\", \"Thursday\": \"8:30am-5:30pm\", \"Friday\": \"8:30am-5:30pm\", \"Saturday\": \"8:30am-5:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Quinta das Laranjeiras",
@@ -1184,7 +1240,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Car Park",
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Vitalcampo, Lda",
@@ -1206,7 +1263,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "Mastercard"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-7pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Couto & Lourenço lda",
@@ -1225,7 +1283,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "Cidipec",
@@ -1245,7 +1304,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1:30pm, 230-7-pm\", \"Tuesday\": \"9am-1:30pm, 230-7-pm\", \"Wednesday\": \"9am-1:30pm, 230-7-pm\", \"Thursday\": \"9am-1:30pm, 230-7-pm\", \"Friday\": \"9am-1:30pm, 230-7-pm\", \"Saturday\": \"9am-1:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Grândola Farmer's Market at Road",
@@ -1265,7 +1325,8 @@ let farmersMarkets = [
             "Credit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Praia das Maçãs Market",
@@ -1289,7 +1350,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "Wheelchair Accessible Restroom"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1:30pm\", \"Wednesday\": \"7am-1:30pm\", \"Thursday\": \"7am-1:30pm\", \"Friday\": \"7am-1:30pm\", \"Saturday\": \"7am-1:30pm\", \"Sunday\": \"7am-1:30pm\"}"
     },
     {
         "Project Name": "Celeiro de Lafões",
@@ -1316,7 +1378,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "On-Site Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 230-630-pm\", \"Tuesday\": \"8:30am-12:30pm, 230-630-pm\", \"Wednesday\": \"8:30am-12:30pm, 230-630-pm\", \"Thursday\": \"8:30am-12:30pm, 130-630-pm\", \"Friday\": \"8:30am-12:30pm, 230-630-pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Nuts 4 Berries, Lda",
@@ -1336,7 +1399,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado 25 de Abril",
@@ -1357,7 +1421,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "Wheelchair Accessible Restroom"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8am-1pm\", \"Wednesday\": \"8am-1pm\", \"Thursday\": \"8am-1pm\", \"Friday\": \"8am-1pm\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Feira Cultural de Coimbra",
@@ -1375,7 +1440,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Agro Tavares & Marques",
@@ -1396,7 +1462,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Bagas da Silva",
@@ -1414,7 +1481,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Casa Agrícola",
@@ -1434,7 +1502,8 @@ let farmersMarkets = [
             "Credit Cards",
             "Debit Cards",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercadinho Biológico e Artesanal de Guimarães",
@@ -1452,7 +1521,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado de Riba de Ave",
@@ -1471,7 +1541,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "Mercadinho de Produtores",
@@ -1490,7 +1561,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Cooperativa Dos Produtores Agricolas Do Concelho De Valongo, Crl.",
@@ -1511,7 +1583,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 2-6-pm\", \"Tuesday\": \"9am-12:30pm, 2-6-pm\", \"Wednesday\": \"9am-12:30pm, 2-6-pm\", \"Thursday\": \"9am-12:30pm, 2-6-pm\", \"Friday\": \"9am-12:30pm, 2-6-pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Cooperativa agricultores Santo Tirso E Trofa",
@@ -1532,7 +1605,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 2-6-pm\", \"Tuesday\": \"9am-1pm, 2-6-pm\", \"Wednesday\": \"9am-1pm, 2-6-pm\", \"Thursday\": \"9am-1pm, 2-6-pm\", \"Friday\": \"9am-1pm, 2-6-pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Municipal",
@@ -1551,7 +1625,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7:30am-1pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7:30am-1pm\", \"Saturday\": \"7:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Peixaria Isabel & Filho",
@@ -1570,7 +1645,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8am-2pm\", \"Wednesday\": \"8am-2pm\", \"Thursday\": \"8am-2pm\", \"Friday\": \"8am-2pm\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Frutas S.Fautino",
@@ -1589,7 +1665,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"8am-1pm\"}"
     },
     {
         "Project Name": "Cunicultura - Marguerita Teixeira Monteiro",
@@ -1608,7 +1685,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-8pm\", \"Tuesday\": \"8am-8pm\", \"Wednesday\": \"8am-8pm\", \"Thursday\": \"8am-8pm\", \"Friday\": \"8am-8pm\", \"Saturday\": \"8am-8pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "AgroParanho",
@@ -1624,7 +1702,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Antigo Mercado Municipal",
@@ -1643,7 +1722,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Pereira & Almeida, lda",
@@ -1662,7 +1742,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Chuva - Loja Agrícola",
@@ -1687,7 +1768,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Parking",
             "Online Order Pickup",
             "On-Site Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Maiaflor",
@@ -1712,7 +1794,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-5-pm\", \"Tuesday\": \"8am-12:30pm, 2-5-pm\", \"Wednesday\": \"8am-12:30pm, 2-5-pm\", \"Thursday\": \"8am-12:30pm, 2-5-pm\", \"Friday\": \"8am-12:30pm, 2-450-pm\", \"Saturday\": \"8am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Cooperativa Agricola de Barcelos",
@@ -1738,7 +1821,8 @@ let farmersMarkets = [
             "In-Store Shopping",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6-pm\", \"Thursday\": \"8:30am-12:30pm, 2-6-pm\", \"Friday\": \"8:30am-12:30pm, 2-6-pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Jose Antonio Barbosa Moreira & Ca, Lda.",
@@ -1771,7 +1855,8 @@ let farmersMarkets = [
             "No Wheelchair Accessible Seating",
             "On-Site Parking",
             "Transgender Safe Space"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12pm, 2-7-pm\", \"Tuesday\": \"8:30am-12pm, 2-7-pm\", \"Wednesday\": \"8:30am-12pm, 2-7-pm\", \"Thursday\": \"8:30am-12pm, 2-7-pm\", \"Friday\": \"8:30am-12pm, 2-7-pm\", \"Saturday\": \"9am-12pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Algés",
@@ -1790,7 +1875,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Almada",
@@ -1809,7 +1895,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "PERDIZLIXA",
@@ -1828,7 +1915,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8:30am-6pm\", \"Sunday\": \"8:30am-6pm\"}"
     },
     {
         "Project Name": "Agricultor Otávio e Aurora",
@@ -1847,7 +1935,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-8pm\", \"Tuesday\": \"8am-8pm\", \"Wednesday\": \"8am-8pm\", \"Thursday\": \"8am-8pm\", \"Friday\": \"8am-8pm\", \"Saturday\": \"8am-8pm\", \"Sunday\": \"8am-8pm\"}"
     },
     {
         "Project Name": "Azeites Milénium",
@@ -1867,7 +1956,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 230-630-pm\", \"Tuesday\": \"9am-12:30pm, 230-630-pm\", \"Wednesday\": \"9am-12:30pm, 230-630-pm\", \"Thursday\": \"9am-12:30pm, 230-630-pm\", \"Friday\": \"9am-12:30pm, 230-630-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado de Agricultura Biológica",
@@ -1888,7 +1978,8 @@ let farmersMarkets = [
             "Debit Cards",
             "Mobile Payments",
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"9am-1pm\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Santo da Serra Farmers Market",
@@ -1909,7 +2000,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "On-Site Services"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"9am-5pm\"}"
     },
     {
         "Project Name": "Mercado Municipal de Santana",
@@ -1929,7 +2021,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"10am-6pm\", \"Saturday\": \"10am-6pm\", \"Sunday\": \"10am-6pm\"}"
     },
     {
         "Project Name": "Feira de Nossa Senhora da Assunção",
@@ -1948,7 +2041,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "A Neta do Laranjeiro - Frutas e Legumes do Produtor (entregas ao domicílio)",
@@ -1973,7 +2067,8 @@ let farmersMarkets = [
             "Gender Neutral Restroom",
             "In-Store Shopping",
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Celeiro do Loureiro",
@@ -1992,7 +2087,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado Agricola",
@@ -2008,7 +2104,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"9am-6pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"9am-6pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Belchior Lda",
@@ -2028,7 +2125,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"6am-5pm\", \"Tuesday\": \"6am-5pm\", \"Wednesday\": \"6am-5pm\", \"Thursday\": \"6am-5pm\", \"Friday\": \"6am-5pm\", \"Saturday\": \"6am-12pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Farmácia Agrícola de Anadia",
@@ -2047,7 +2145,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Credit Cards",
             "Debit Cards"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-7-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-7-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-7-pm\", \"Thursday\": \"8:30am-12:30pm, 2-7-pm\", \"Friday\": \"8:30am-12:30pm, 2-7-pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado dos Agricultores - Pombal",
@@ -2065,7 +2164,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado Biológico Agrobio - Portimão",
@@ -2084,7 +2184,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mimagro - Loja 2 Fundão",
@@ -2111,7 +2212,8 @@ let farmersMarkets = [
             "Mastercard",
             "Transgender Safe Space",
             "Visa"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 230-630-pm\", \"Tuesday\": \"9am-12:45pm, 230-630-pm\", \"Wednesday\": \"9am-12:45pm, 230-630-pm\", \"Thursday\": \"9am-12pm, 230-630-pm\", \"Friday\": \"9am-12:45pm, 230-630-pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mimagro",
@@ -2140,7 +2242,8 @@ let farmersMarkets = [
             "LGBTQ+ Friendly",
             "Delivery Available",
             "Transgender Safe Space"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 3-630-pm\", \"Tuesday\": \"9am-12:45pm, 3-630-pm\", \"Wednesday\": \"9am-12:45pm, 3-630-pm\", \"Thursday\": \"9am-12:45pm, 3-630-pm\", \"Friday\": \"9am-12:45pm, 3-630-pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Vivo Mercado Lagos",
@@ -2162,7 +2265,8 @@ let farmersMarkets = [
             "Restroom Available",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"4-8-pm\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Largo da Feira de Portomar",
@@ -2181,7 +2285,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "HTN Distribuição Alimentar Unipessoal Lda",
@@ -2200,7 +2305,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Lusoleaves",
@@ -2219,7 +2325,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-5:30pm\", \"Tuesday\": \"9am-5:30pm\", \"Wednesday\": \"9am-5:30pm\", \"Thursday\": \"9am-5:30pm\", \"Friday\": \"9am-5:30pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Produção agricola",
@@ -2237,7 +2344,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Back to Eden - B2E",
@@ -2254,7 +2362,8 @@ let farmersMarkets = [
             "Farm",
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"11am-2pm\", \"Tuesday\": \"11am-2pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "BioAlentejanices",
@@ -2274,7 +2383,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
     },
     {
         "Project Name": "César Agostinho Elias",
@@ -2293,7 +2403,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-7pm\", \"Tuesday\": \"8am-7pm\", \"Wednesday\": \"8am-7pm\", \"Thursday\": \"8am-7pm\", \"Friday\": \"8am-7pm\", \"Saturday\": \"8am-7pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Alberto Lopes Luis",
@@ -2309,7 +2420,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-7-pm\", \"Tuesday\": \"9am-1pm, 3-7-pm\", \"Wednesday\": \"9am-1pm, 3-7-pm\", \"Thursday\": \"9am-1pm, 3-7-pm\", \"Friday\": \"9am-1pm, 3-7-pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Batata Doce do Oeste",
@@ -2325,7 +2437,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"9am-5pm\", \"Tuesday\": \"9am-5pm\", \"Wednesday\": \"9am-5pm\", \"Thursday\": \"9am-5pm\", \"Friday\": \"9am-5pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mimagro - Loja Belmonte",
@@ -2353,7 +2466,8 @@ let farmersMarkets = [
             "Women Owned",
             "LGBTQ+ Friendly",
             "Transgender Safe Space"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 3-630-pm\", \"Tuesday\": \"9am-12:45pm, 3-630-pm\", \"Wednesday\": \"9am-12:45pm, 3-630-pm\", \"Thursday\": \"9am-12:45pm, 3-630-pm\", \"Friday\": \"9am-12:45pm, 3-630-pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Reforma Agrária de Lagos - Horticulas e Prod Locais",
@@ -2372,7 +2486,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Multipurpose space Aljezur (EMA)",
@@ -2393,7 +2508,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "Wheelchair Accessible Restroom"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Cooperativa Agrícola de Barcelos - Armazém de Aldreu",
@@ -2414,7 +2530,8 @@ let farmersMarkets = [
             "In-Store Shopping",
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6-pm\", \"Thursday\": \"8:30am-12:30pm, 2-6-pm\", \"Friday\": \"8:30am-12:30pm, 2-6-pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Cooperativa Agrícola de Barcelos - Armazém da Sede",
@@ -2433,7 +2550,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6-pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6-pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6-pm\", \"Thursday\": \"8:30am-12:30pm, 2-6-pm\", \"Friday\": \"8:30am-12:30pm, 2-6-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "NUTRIROSSIO Consultoria Agrícola",
@@ -2460,7 +2578,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Parking",
             "Wheelchair Accessible Seating",
             "Women Owned"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"9am-1pm, 3-7-pm\", \"Wednesday\": \"9am-1pm, 3-7-pm\", \"Thursday\": \"9am-1pm, 3-7-pm\", \"Friday\": \"9am-1pm, 3-7-pm\", \"Saturday\": \"9am-1pm, 3-7-pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Mercado de Espiche",
@@ -2479,7 +2598,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Prazeres Farmer's Market",
@@ -2498,7 +2618,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"8am-1pm\"}"
     },
     {
         "Project Name": "Lobeira Holsteins",
@@ -2517,7 +2638,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"7:30am-7:30pm\", \"Tuesday\": \"7:30am-8:30pm\", \"Wednesday\": \"7:30am-8:30pm\", \"Thursday\": \"7:30am-8:30pm\", \"Friday\": \"7:30am-8:30pm\", \"Saturday\": \"7:30am-8:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Rogil monthly market (4th sunday)",
@@ -2533,7 +2655,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "São Teotónio monthly Market (first Monday of each month)",
@@ -2552,7 +2675,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado Biológico de Matosinhos",
@@ -2571,7 +2695,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "DATS, produtora de mirtilos",
@@ -2590,7 +2715,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8am-12pm, 2-6-pm\", \"Tuesday\": \"8am-12pm, 2-6-pm\", \"Wednesday\": \"8am-12pm, 2-6-pm\", \"Thursday\": \"8am-12pm, 2-6-pm\", \"Friday\": \"8am-12pm, 2-6-pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Cooperativa Agrícola de Condeixa-a-Nova e Penela, C.R.L. - Loja de Penela",
@@ -2609,7 +2735,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Fernando Jesus Maria Amaro",
@@ -2628,7 +2755,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 2-7-pm\", \"Tuesday\": \"9am-1pm, 2-7-pm\", \"Wednesday\": \"9am-1pm, 2-7-pm\", \"Thursday\": \"9am-1pm, 2-7-pm\", \"Friday\": \"9am-1pm, 2-7-pm\", \"Saturday\": \"9am-1pm, 2-7-pm\", \"Sunday\": \"9am-1pm, 2-3-pm\"}"
     },
     {
         "Project Name": "Escrita do Campo",
@@ -2644,7 +2772,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mercado da Alegria",
@@ -2664,7 +2793,8 @@ let farmersMarkets = [
             "Credit Cards",
             "Debit Cards",
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"10am-6pm\"}"
     },
     {
         "Project Name": "Antenor, Lda.",
@@ -2682,7 +2812,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Mimagro - Loja tortosendo",
@@ -2700,7 +2831,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 230-630-pm\", \"Tuesday\": \"9am-12:45pm, 230-630-pm\", \"Wednesday\": \"9am-12:45pm, 230-630-pm\", \"Thursday\": \"9am-12:45pm, 230-630-pm\", \"Friday\": \"9am-12:45pm, 230-630-pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Drogaria Pimenta do Vale",
@@ -2716,7 +2848,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-7-pm\", \"Tuesday\": \"9am-1pm, 3-7-pm\", \"Wednesday\": \"9am-1pm, 3-7-pm\", \"Thursday\": \"9am-1pm, 3-7-pm\", \"Friday\": \"9am-1pm, 3-7-pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Agricultural",
@@ -2732,7 +2865,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": null
     },
     {
         "Project Name": "Praça do peixe",
@@ -2751,7 +2885,8 @@ let farmersMarkets = [
         "Additional Details": [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Quinta Everywhere Sunshine 3",
@@ -2769,7 +2904,8 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": null
     },
     {
         "Project Name": "Rua do Centro Communitario",
@@ -2785,7 +2921,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Beelove.farm Shop",
@@ -2808,7 +2945,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Restroom",
             "Wheelchair Accessible Seating",
             "On-Site Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-12pm\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Loja Agrícola David Silva e Filipe Teixeira",
@@ -2824,7 +2962,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Campo dos Mártires da Pátria",
@@ -2840,7 +2979,8 @@ let farmersMarkets = [
         "Regenerative Practices": [
             "Farmers market"
         ],
-        "Additional Details": []
+        "Additional Details": [],
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Prorural, Lda",
@@ -2864,7 +3004,8 @@ let farmersMarkets = [
             "Wheelchair Accessible Entrance",
             "Wheelchair Accessible Parking",
             "On-Site Services"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 230-630-pm\", \"Tuesday\": \"8:30am-12:30pm, 230-630-pm\", \"Wednesday\": \"8:30am-12:30pm, 230-630-pm\", \"Thursday\": \"8:30am-12:30pm, 230-630-pm\", \"Friday\": \"8:30am-12:30pm, 230-630-pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Casa Agrícola das Cerdeirinhas",
@@ -2884,7 +3025,8 @@ let farmersMarkets = [
             "Free Parking Lot",
             "Free Street Parking",
             "On-Site Parking"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 130-7-pm\", \"Tuesday\": \"8:30am-12:30pm, 130-7-pm\", \"Wednesday\": \"8:30am-12:30pm, 130-7-pm\", \"Thursday\": \"8:30am-12:30pm, 130-7-pm\", \"Friday\": \"8:30am-12:30pm, 130-7-pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
     },
     {
         "Project Name": "Geofragaria Unipessoal Lda",
@@ -2902,6 +3044,7 @@ let farmersMarkets = [
         ],
         "Additional Details": [
             "Wheelchair Accessible Entrance"
-        ]
+        ],
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
     }
 ];

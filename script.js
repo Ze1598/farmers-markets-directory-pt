@@ -473,6 +473,45 @@ function displayProjects(projects) {
     });
 }
 
+// Generate Operating Hours HTML
+function generateOperatingHoursHTML(operatingHoursStr) {
+    let hoursHTML = '<div class="additional-info operating-hours-section">';
+    hoursHTML += '<span class="info-label">Operating Hours</span>';
+
+    if (!operatingHoursStr) {
+        hoursHTML += '<div class="info-text"><span class="not-available">Not Available</span></div>';
+        hoursHTML += '</div>';
+        return hoursHTML;
+    }
+
+    try {
+        const hours = JSON.parse(operatingHoursStr);
+        const daysOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+
+        hoursHTML += '<div class="operating-hours-grid">';
+
+        daysOrder.forEach(day => {
+            if (hours[day]) {
+                const times = hours[day];
+                hoursHTML += `
+                    <div class="hours-row">
+                        <span class="hours-day">${day}</span>
+                        <span class="hours-time">${escapeHtml(times)}</span>
+                    </div>
+                `;
+            }
+        });
+
+        hoursHTML += '</div></div>';
+        return hoursHTML;
+    } catch (e) {
+        console.error('Error parsing Operating Hours:', e);
+        hoursHTML += '<div class="info-text"><span class="not-available">Not Available</span></div>';
+        hoursHTML += '</div>';
+        return hoursHTML;
+    }
+}
+
 // Generate LocalBusiness/AgriculturalBusiness schema for each project
 function generateLocalBusinessSchema(project) {
     const schema = {
@@ -569,7 +608,9 @@ function createProjectCard(project) {
                     </div>
                 </div>
             </div>
-            
+
+            ${generateOperatingHoursHTML(project['Operating Hours'])}
+
             ${practices.length > 0 ? `
             <div class="additional-info">
                 <span class="info-label">Type</span>
@@ -587,7 +628,7 @@ function createProjectCard(project) {
                 </div>
             </div>
             ` : ''}
-            
+
             <div class="project-actions">
                 <button class="show-on-map-btn" onclick="showOnMap('${escapeHtml(project['Project Name'])}', ${project.Latitude}, ${project.Longitude})">
                     <i class="fas fa-map-marker-alt"></i>

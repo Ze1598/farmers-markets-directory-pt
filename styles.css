@@ -536,6 +536,38 @@ body {
     color: var(--accent-brown);
 }
 
+/* Operating Hours */
+.operating-hours-section {
+    margin-top: var(--spacing-4);
+    padding-top: var(--spacing-4);
+    border-top: 1px solid var(--neutral-200);
+}
+
+.operating-hours-grid {
+    display: flex;
+    flex-direction: column;
+    gap: var(--spacing-2);
+    margin-top: var(--spacing-2);
+}
+
+.hours-row {
+    display: grid;
+    grid-template-columns: 110px 1fr;
+    gap: var(--spacing-3);
+    align-items: baseline;
+    font-size: var(--font-size-sm);
+}
+
+.hours-day {
+    font-weight: 600;
+    color: var(--neutral-700);
+}
+
+.hours-time {
+    color: var(--neutral-600);
+    text-align: right;
+}
+
 /* Project actions */
 .project-actions {
     margin-top: auto;

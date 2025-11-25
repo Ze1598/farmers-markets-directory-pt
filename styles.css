@@ -237,6 +237,33 @@ body {
     border-color: var(--primary-green);
 }
 
+.near-me-btn {
+    background-color: var(--primary-green);
+    border: none;
+    padding: var(--spacing-3) var(--spacing-4);
+    border-radius: var(--border-radius-md);
+    cursor: pointer;
+    font-size: var(--font-size-sm);
+    font-weight: 500;
+    color: var(--neutral-100);
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-2);
+}
+
+.near-me-btn:hover {
+    background-color: #236247;
+}
+
+.near-me-btn.active {
+    background-color: var(--accent-brown);
+}
+
+.near-me-btn.active:hover {
+    background-color: #9d5a1f;
+}
+
 .reset-btn {
     background-color: var(--neutral-200);
     border: none;
@@ -408,6 +435,16 @@ body {
     text-transform: uppercase;
     letter-spacing: 0.05em;
     align-self: flex-start;
+}
+
+.distance-badge {
+    display: inline-block;
+    background-color: #4285F4;
+    color: var(--neutral-100);
+    padding: var(--spacing-1) var(--spacing-3);
+    border-radius: var(--border-radius-sm);
+    font-size: var(--font-size-xs);
+    font-weight: 500;
 }
 
 .project-body {

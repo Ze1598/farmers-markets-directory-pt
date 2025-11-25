@@ -1,7 +1,10 @@
 // Global variables
 let map;
 let markers = [];
+let userMarker = null;
 let filteredProjects = [...farmersMarkets];
+let userLocation = null;
+let nearMeActive = false;
 
 // DOM elements
 let searchInput;
@@ -18,6 +21,9 @@ let mapView;
 let projectsList;
 let noResults;
 let resultsCount;
+let nearMeBtn;
+let radiusFilter;
+let radiusFilterGroup;
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', function () {
@@ -44,6 +50,9 @@ function initializeElements() {
     mapViewBtn = document.getElementById('mapViewBtn');
     listView = document.getElementById('listView');
     mapView = document.getElementById('mapView');
+    nearMeBtn = document.getElementById('nearMeBtn');
+    radiusFilter = document.getElementById('radiusFilter');
+    radiusFilterGroup = document.getElementById('radiusFilterGroup');
     // Set current year
     document.getElementById('currentYear').textContent = new Date().getFullYear();
     projectsList = document.getElementById('projectsList');
@@ -141,7 +150,11 @@ function initializeEventListeners() {
     cityFilter.addEventListener('change', handleFilters);
     practiceFilter.addEventListener('change', handleFilters);
     productFilter.addEventListener('change', handleFilters);
+    radiusFilter.addEventListener('change', handleNearMeRadius);
     resetFiltersBtn.addEventListener('click', resetFilters);
+
+    // Near Me button
+    nearMeBtn.addEventListener('click', handleNearMe);
 
     // View toggle
     listViewBtn.addEventListener('click', () => switchView('list'));
@@ -178,7 +191,19 @@ function applyFilters() {
     const selectedPractice = practiceFilter.value;
     const selectedProduct = productFilter.value;
 
-    filteredProjects = farmersMarkets.filter(project => {
+    filteredProjects = farmersMarkets.map(project => {
+        // Calculate distance if Near Me is active
+        if (nearMeActive && userLocation) {
+            const distance = calculateDistance(
+                userLocation.lat,
+                userLocation.lng,
+                project.Latitude,
+                project.Longitude
+            );
+            return { ...project, distance };
+        }
+        return { ...project, distance: null };
+    }).filter(project => {
         // Search filter
         const matchesSearch = !searchQuery ||
             project['Project Name'].toLowerCase().includes(searchQuery) ||
@@ -203,8 +228,20 @@ function applyFilters() {
         const matchesProduct = !selectedProduct ||
             (project['Additional Details'] && project['Additional Details'].includes(selectedProduct));
 
-        return matchesSearch && matchesDistrict && matchesCity && matchesPractice && matchesProduct;
+        // Distance filter (only when Near Me is active)
+        let matchesDistance = true;
+        if (nearMeActive && userLocation) {
+            const maxDistance = parseInt(radiusFilter.value);
+            matchesDistance = project.distance <= maxDistance;
+        }
+
+        return matchesSearch && matchesDistrict && matchesCity && matchesPractice && matchesProduct && matchesDistance;
     });
+
+    // Sort by distance if Near Me is active
+    if (nearMeActive && userLocation) {
+        filteredProjects.sort((a, b) => a.distance - b.distance);
+    }
 
     displayProjects(filteredProjects);
     updateMapMarkers();
@@ -220,10 +257,149 @@ function resetFilters() {
     productFilter.value = '';
     clearSearchBtn.style.display = 'none';
 
+    // Reset Near Me
+    nearMeActive = false;
+    userLocation = null;
+    nearMeBtn.classList.remove('active');
+    radiusFilterGroup.style.display = 'none';
+
+    // Remove user marker from map
+    if (userMarker && map) {
+        map.removeLayer(userMarker);
+        userMarker = null;
+    }
+
     filteredProjects = [...farmersMarkets];
     displayProjects(filteredProjects);
     updateMapMarkers();
     updateResultsCount();
+}
+
+// Calculate distance between two coordinates using Haversine formula
+function calculateDistance(lat1, lon1, lat2, lon2) {
+    const R = 6371; // Earth's radius in kilometers
+    const dLat = toRadians(lat2 - lat1);
+    const dLon = toRadians(lon2 - lon1);
+    const a =
+        Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+        Math.cos(toRadians(lat1)) * Math.cos(toRadians(lat2)) *
+        Math.sin(dLon / 2) * Math.sin(dLon / 2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+    const distance = R * c;
+    return distance; // Returns distance in kilometers
+}
+
+function toRadians(degrees) {
+    return degrees * (Math.PI / 180);
+}
+
+// Handle Near Me button click
+function handleNearMe() {
+    if (nearMeActive) {
+        // Deactivate Near Me
+        nearMeActive = false;
+        userLocation = null;
+        nearMeBtn.classList.remove('active');
+        radiusFilterGroup.style.display = 'none';
+
+        // Remove user marker
+        if (userMarker && map) {
+            map.removeLayer(userMarker);
+            userMarker = null;
+        }
+
+        applyFilters();
+        return;
+    }
+
+    // Check if geolocation is supported
+    if (!navigator.geolocation) {
+        alert('Geolocation is not supported by your browser. Please use the location filters instead.');
+        return;
+    }
+
+    // Show loading state
+    nearMeBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Getting location...';
+    nearMeBtn.disabled = true;
+
+    // Get user location
+    navigator.geolocation.getCurrentPosition(
+        (position) => {
+            userLocation = {
+                lat: position.coords.latitude,
+                lng: position.coords.longitude
+            };
+
+            nearMeActive = true;
+            nearMeBtn.classList.add('active');
+            nearMeBtn.innerHTML = '<i class="fas fa-location-arrow"></i> Near Me (Active)';
+            nearMeBtn.disabled = false;
+            radiusFilterGroup.style.display = 'flex';
+
+            // Add user marker to map
+            addUserMarker();
+
+            // Apply filters with location
+            applyFilters();
+        },
+        (error) => {
+            nearMeBtn.innerHTML = '<i class="fas fa-location-arrow"></i> Near Me';
+            nearMeBtn.disabled = false;
+
+            let errorMessage = 'Unable to get your location. ';
+            switch (error.code) {
+                case error.PERMISSION_DENIED:
+                    errorMessage += 'You denied the location request. Please enable location access in your browser settings.';
+                    break;
+                case error.POSITION_UNAVAILABLE:
+                    errorMessage += 'Location information is unavailable.';
+                    break;
+                case error.TIMEOUT:
+                    errorMessage += 'The request to get your location timed out.';
+                    break;
+                default:
+                    errorMessage += 'An unknown error occurred.';
+            }
+            alert(errorMessage);
+        },
+        {
+            enableHighAccuracy: true,
+            timeout: 10000,
+            maximumAge: 0
+        }
+    );
+}
+
+// Handle radius filter change when Near Me is active
+function handleNearMeRadius() {
+    if (nearMeActive) {
+        applyFilters();
+    }
+}
+
+// Add user location marker to map
+function addUserMarker() {
+    if (!map || !userLocation) return;
+
+    // Remove existing user marker
+    if (userMarker) {
+        map.removeLayer(userMarker);
+    }
+
+    // Create custom icon for user location
+    const userIcon = L.divIcon({
+        className: 'user-location-marker',
+        html: '<div style="background-color: #4285F4; width: 16px; height: 16px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(0,0,0,0.3);"></div>',
+        iconSize: [22, 22],
+        iconAnchor: [11, 11]
+    });
+
+    userMarker = L.marker([userLocation.lat, userLocation.lng], { icon: userIcon })
+        .addTo(map)
+        .bindPopup('<strong>Your Location</strong>');
+
+    // Center map on user location
+    map.setView([userLocation.lat, userLocation.lng], 10);
 }
 
 // Switch between list and map views
@@ -347,9 +523,12 @@ function createProjectCard(project) {
     card.innerHTML = `
         <div class="project-header">
             <h2 class="project-name">${escapeHtml(project['Project Name'])}</h2>
-            <span class="project-district">${escapeHtml(project.City)}</span>
+            <div style="display: flex; gap: 8px; align-items: center; flex-wrap: wrap;">
+                <span class="project-district">${escapeHtml(project.City)}</span>
+                ${project.distance !== null && project.distance !== undefined ? `<span class="distance-badge">${project.distance.toFixed(1)} km away</span>` : ''}
+            </div>
         </div>
-        
+
         <div class="project-body">
             <div class="project-info">
                 <div class="info-item">

@@ -162,6 +162,21 @@
                 </div>
 
                 <div class="filters-container">
+                    <button id="nearMeBtn" class="near-me-btn">
+                        <i class="fas fa-location-arrow"></i>
+                        Near Me
+                    </button>
+
+                    <div class="filter-group" id="radiusFilterGroup" style="display: none;">
+                        <label for="radiusFilter" class="filter-label">Radius:</label>
+                        <select id="radiusFilter" class="filter-select">
+                            <option value="25">25 km</option>
+                            <option value="50" selected>50 km</option>
+                            <option value="100">100 km</option>
+                            <option value="200">200 km</option>
+                        </select>
+                    </div>
+
                     <div class="filter-group">
                         <label for="districtFilter" class="filter-label">District:</label>
                         <select id="districtFilter" class="filter-select">

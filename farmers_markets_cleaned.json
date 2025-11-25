@@ -1,0 +1,2907 @@
+[
+    {
+        "Name": "Quinta Pedagógica da Caria",
+        "Services": [
+            "Camping farm",
+            "Childrens farm",
+            "Childrens party service",
+            "Event venue",
+            "Farmers market",
+            "Herbal medicine store",
+            "Learning center",
+            "Organic farm",
+            "Organic food store",
+            "Tourist attraction"
+        ],
+        "Features": [
+            "Mobile Payments",
+            "Appointment Required",
+            "Free Parking Lot",
+            "Glass Bottle Recycling",
+            "Great Produce",
+            "In-Store Shopping",
+            "Metal Can Recycling",
+            "Plastic Bag Recycling",
+            "Plastic Bottle Recycling",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom",
+            "Wheelchair Accessible Seating",
+            "Wi-Fi",
+            "Women Owned",
+            "Online Order Pickup",
+            "Delivery Available",
+            "Organic Products"
+        ],
+        "Website": "https://www.quintadacaria.com",
+        "Phone": "+351 918 919 044",
+        "Full Address": "Quinta Pedagógica da Caria, Rua do Pinhal Redondo 30, Casal da Barreirinha, 2560-095 MACEIRA TVD, Portugal",
+        "City": "Lourinhã",
+        "District": "Lisboa",
+        "Longitude": -9.315742,
+        "Latitude": 39.170442,
+        "Email": "o-seu-email@exemplo.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado dos Lavradores (farmers' market)",
+        "Services": [
+            "Cafeteria",
+            "Market",
+            "Produce market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Free Parking Lot",
+            "Quick Visit Friendly",
+            "Great Produce",
+            "Washroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Washroom",
+            "Wi-Fi",
+            "No Delivery",
+            "On-Site Services",
+            "Paid Parking Lot",
+            "Food Served"
+        ],
+        "Website": null,
+        "Phone": "+351 291 091 439",
+        "Full Address": "Mercado dos Lavradores (farmers' market), Largo dos Lavradores, 9060-158 Funchal, Portugal",
+        "City": "Funchal",
+        "District": "Madeira",
+        "Longitude": -16.9041032,
+        "Latitude": 32.648631,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"7am-7pm\", \"Tuesday\": \"7am-7pm\", \"Wednesday\": \"7am-7pm\", \"Thursday\": \"7am-7pm\", \"Friday\": \"7am-7pm\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Agrícola de Santana",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.aasm-cua.com.pt/aDefMercado.asp",
+        "Phone": "+351 296 490 000",
+        "Full Address": "Mercado Agrícola de Santana, Lugar Recinto Da Feira, Campo De Santana, 9600-096 Ribeira Grande, Portugal",
+        "City": "Ribeira Grande",
+        "District": "Azores",
+        "Longitude": -25.5631551,
+        "Latitude": 37.808606,
+        "Email": "geral@aasm-cua.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico do Principe Real",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado Biológico do Principe Real, Praça do Príncipe Real, 1250-096 Lisboa, Portugal",
+        "City": "Lisbon",
+        "District": "Lisboa",
+        "Longitude": -9.1492235,
+        "Latitude": 38.7159504,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Organic Market Agrobio - Nations Park",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Organic Market Agrobio - Nations Park, 1990-061 Lisboa, Portugal",
+        "City": "Lisbon",
+        "District": "Lisboa",
+        "Longitude": -9.0920629,
+        "Latitude": 38.7772598,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - São Vicente",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Portugal, Lisboa, Campo de Santa Clara, Mercado Biológico Agrobio - São Vicente",
+        "City": "Lisbon",
+        "District": "Lisboa",
+        "Longitude": -9.1248781,
+        "Latitude": 38.715581,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Campo Pequeno",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Portugal, Lisboa, Campo Pequeno, Mercado Biológico Agrobio - Campo Pequeno",
+        "City": "Lisbon",
+        "District": "Lisboa",
+        "Longitude": -9.1460942,
+        "Latitude": 38.7431731,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Parque das Nações Sul",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Parque das Nações Sul, Alameda dos Oceanos, 1990-217 Lisboa, Portugal",
+        "City": "Lisbon",
+        "District": "Lisboa",
+        "Longitude": -9.0966858,
+        "Latitude": 38.757391,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Cascais",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Cascais, R. Padre Moisés da Silva 29, 2750-437 Cascais, Portugal",
+        "City": "Cascais",
+        "District": "Lisboa",
+        "Longitude": -9.4215619,
+        "Latitude": 38.702186,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Herdade da Falcoeira",
+        "Services": [
+            "Farmers market",
+            "Livestock breeder",
+            "Winery"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.linkedin.com/pub/herdade-da-falcoeira/51/40a/40",
+        "Phone": "+351 266 587 141",
+        "Full Address": "Herdade da Falcoeira, Av. das Oliveiras do Monte da Falcoeira, 7200-071, Portugal",
+        "City": "Reguengos de Monsaraz",
+        "District": "Évora",
+        "Longitude": -7.501505,
+        "Latitude": 38.36835,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Feira Livre de Bragança",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Feira Livre de Bragança, Bragança, Portugal",
+        "City": "Bragança Municipality",
+        "District": "Bragança",
+        "Longitude": -6.763668,
+        "Latitude": 41.8057054,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"8am-1pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Warehouse Farmer, Farmer Financial Services Ltd",
+        "Services": [
+            "Do-it-yourself shop",
+            "Farmers market",
+            "Garden"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Free Parking Garage",
+            "Free Street Parking",
+            "Gender Neutral Restroom",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom",
+            "No Wheelchair Accessible Seating",
+            "On-Site Parking"
+        ],
+        "Website": "http://www.mimagro.pt",
+        "Phone": "+351 275 331 106",
+        "Full Address": "Warehouse Farmer, Farmer Financial Services Ltd, Parque Industrial Covilhã Lt. 30, 6200-027 Covilhã, Portugal",
+        "City": "Covilhã",
+        "District": "Castelo Branco",
+        "Longitude": -7.4826245,
+        "Latitude": 40.2909599,
+        "Email": "geral@mimagro.pt",
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 230-6:30pm\", \"Tuesday\": \"9am-1pm, 230-6:30pm\", \"Wednesday\": \"9am-1pm, 230-6:30pm\", \"Thursday\": \"9am-1pm, 230-6:30pm\", \"Friday\": \"9am-1pm, 230-6:30pm\", \"Saturday\": \"9am-1pm, 230-6:30pm\", \"Sunday\": \"230-6:30pm\"}"
+    },
+    {
+        "Name": "Natureza Azul",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 968 290 198",
+        "Full Address": "Natureza Azul, Portugal",
+        "City": "Guarda",
+        "District": "Distrito da Guarda",
+        "Longitude": -7.228037,
+        "Latitude": 40.514776,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Manuel Meles, Lda",
+        "Services": [
+            "Agricultural service",
+            "Farm equipment supplier",
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 273 329 995",
+        "Full Address": "Manuel Meles, Lda, R. Cel. Teófilo de Morais n. 36, 5300-427 Bragança, Portugal",
+        "City": "Bragança Municipality",
+        "District": "Bragança",
+        "Longitude": -6.7823227,
+        "Latitude": 41.7894486,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6pm\", \"Thursday\": \"8:30am-12:30pm, 2-6pm\", \"Friday\": \"8:30am-12:30pm, 2-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "BioApis - Apicultura Biológica, Lda.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 933 488 608",
+        "Full Address": "BioApis - Apicultura Biológica, Lda., Zona Industrial de Vimioso, Lote 20, 5230-284 Vimioso, Portugal",
+        "City": "Vimioso",
+        "District": "Bragança",
+        "Longitude": -6.5365223,
+        "Latitude": 41.5611686,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-6pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Porto Belo",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://m.facebook.com/mercadoportobelo",
+        "Phone": null,
+        "Full Address": "Mercado Porto Belo, Praça de Carlos Alberto, 4050-157 Porto, Portugal",
+        "City": "Porto",
+        "District": "Distrito do Porto",
+        "Longitude": -8.615878,
+        "Latitude": 41.1485078,
+        "Email": "mercadoportobelo@gmail.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-7pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Feira de Produtos Biológicos do Porto",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Mobile Payments",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.facebook.com/organicporto",
+        "Phone": null,
+        "Full Address": "Feira de Produtos Biológicos do Porto, Estr. da Circunvalação, 4100-083 Porto, Portugal",
+        "City": "Porto",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6785719,
+        "Latitude": 41.1705029,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Agro-Matias",
+        "Services": [
+            "Animal feed store",
+            "Farmers market",
+            "Manufacturer",
+            "Organic farm"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 252 652 167",
+        "Full Address": "Agro-Matias, R. de São Cristovão, 4480-430 Rio Mau, Portugal",
+        "City": "Vila do Conde",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6798604,
+        "Latitude": 41.4041153,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-7pm\", \"Tuesday\": \"8:30am-12:30pm, 2-7pm\", \"Wednesday\": \"8:30am-12:30pm, 2-7pm\", \"Thursday\": \"8:30am-12:30pm, 2-7pm\", \"Friday\": \"8:30am-12:30pm, 2-7pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Casa Caldas - Produtos Agrícolas,LDA",
+        "Services": [
+            "Agricultural product wholesaler",
+            "Agricultural service",
+            "Animal feed store",
+            "Distribution service",
+            "Farm shop",
+            "Farmers market",
+            "Health food store",
+            "Manufacturer",
+            "Organic farm"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.casacaldas.com",
+        "Phone": "+351 258 907 010",
+        "Full Address": "Casa Caldas - Produtos Agrícolas,LDA, Rua da Posa, Rua de Santo Amaro 242, 4990-349, Portugal",
+        "City": "Ponte de Lima",
+        "District": "Viana do Castelo",
+        "Longitude": -8.5762487,
+        "Latitude": 41.7456239,
+        "Email": "administrativo@casacaldas.com",
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-7pm\", \"Tuesday\": \"8am-12:30pm, 2-7pm\", \"Wednesday\": \"8am-12:30pm, 2-7pm\", \"Thursday\": \"8am-12:30pm, 2-7pm\", \"Friday\": \"8am-12:30pm, 2-7pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Horta do Besouro",
+        "Services": [
+            "Agricultural service",
+            "Farm shop",
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 963 163 339",
+        "Full Address": "Horta do Besouro, Sítio do Besouro Cx 660 A, 8005-421 Faro, Portugal",
+        "City": "Faro",
+        "District": "Faro",
+        "Longitude": -7.919088,
+        "Latitude": 37.069633,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Ed Pinheiro Torres & Irmãos Lda",
+        "Services": [
+            "Distribution service",
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.edpinheirotorres.pt",
+        "Phone": "+351 22 947 8640",
+        "Full Address": "Ed Pinheiro Torres & Irmãos Lda, Estrada Nacional 14 n.º 517 - Barca, 4475-045 Maia, Portugal",
+        "City": "Maia",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6207432,
+        "Latitude": 41.2443531,
+        "Email": "webmaster@edpinheirotorres.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-12pm, 2-6:30pm\", \"Tuesday\": \"8:30am-12pm, 2-6:30pm\", \"Wednesday\": \"8:30am-12pm, 2-6:30pm\", \"Thursday\": \"8:30am-12pm, 2-6:30pm\", \"Friday\": \"8:30am-12pm, 2-6:30pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Hidroplay.EU.lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 916 165 836",
+        "Full Address": "Hidroplay.EU.lda, Estrada Nacional 8/5, Leizerões, 2450-633 Valado dos Frades, Portugal",
+        "City": "Nazaré",
+        "District": "Leiria",
+        "Longitude": -9.0101677,
+        "Latitude": 39.5802572,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-6:30pm\", \"Tuesday\": \"9am-6:30pm\", \"Wednesday\": \"9am-6:30pm\", \"Thursday\": \"9am-6:30pm\", \"Friday\": \"9am-6:30pm\", \"Saturday\": \"10am-6:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Village Farm - Santa Margarida da Coutada",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 919 367 624",
+        "Full Address": "Village Farm - Santa Margarida da Coutada, Estr. Nova das Hortas 10, 2250-357, Portugal",
+        "City": "Constância",
+        "District": "Santarém",
+        "Longitude": -8.312101,
+        "Latitude": 39.442192,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-5pm\", \"Tuesday\": \"9am-5pm\", \"Wednesday\": \"9am-5pm\", \"Thursday\": \"9am-5pm\", \"Friday\": \"9am-5pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "AVDC - Associação de Viveiristas do Distrito de Coimbra",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 913 274 278",
+        "Full Address": "AVDC - Associação de Viveiristas do Distrito de Coimbra, Quinta de S. Jorge Copeira Estrada da, 3040-714, Portugal",
+        "City": "Coimbra",
+        "District": "Coimbra",
+        "Longitude": -8.4103342,
+        "Latitude": 40.1758467,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-6pm\", \"Tuesday\": \"8am-6pm\", \"Wednesday\": \"8am-6pm\", \"Thursday\": \"8am-6pm\", \"Friday\": \"8am-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Lagoa de Albufeira market",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.sesimbra.pt/pages/1301?poi_id=282",
+        "Phone": null,
+        "Full Address": "Lagoa de Albufeira market, Estr. do Casalão, Portugal",
+        "City": "Sesimbra",
+        "District": "Setúbal",
+        "Longitude": -9.1610695,
+        "Latitude": 38.4946808,
+        "Email": "balcao.unico@cm-sesimbra.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1pm\", \"Wednesday\": \"7am-1pm\", \"Thursday\": \"7am-1pm\", \"Friday\": \"7am-1pm\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"7am-1pm\"}"
+    },
+    {
+        "Name": "Cooperativa de Viticultores e Oliviticultores de Freixo de Numão CRL",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 279 780 010",
+        "Full Address": "Cooperativa de Viticultores e Oliviticultores de Freixo de Numão CRL, Freixo de Numão, 5155-235 Vila Nova de Foz Côa, Portugal",
+        "City": "Vila Nova de Foz Côa",
+        "District": "Distrito da Guarda",
+        "Longitude": -7.2241622,
+        "Latitude": 41.0553797,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Expo-Agrícola e Artesanal da Ponta do Sol",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://expoagricola.pt",
+        "Phone": null,
+        "Full Address": "Expo-Agrícola e Artesanal da Ponta do Sol, Estrada do V Centenário 20, 9360-500 Ponta do Sol, Portugal",
+        "City": "Ponta do Sol",
+        "District": "Madeira",
+        "Longitude": -17.1018318,
+        "Latitude": 32.6822307,
+        "Email": "expoagricolapds@proton.me",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "O Prado - Hernâni Pinto & Filhos Lda",
+        "Services": [
+            "Commercial agent",
+            "Farmers market",
+            "Store"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://hpf.pt",
+        "Phone": "+351 276 323 834",
+        "Full Address": "O Prado - Hernâni Pinto & Filhos Lda, Av. D.João I 116, EN2, Raio X, 5400-323 Chaves, Portugal",
+        "City": "Chaves",
+        "District": "Vila Real",
+        "Longitude": -7.4701776,
+        "Latitude": 41.7290686,
+        "Email": "geral@hpf.pt",
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado da Reforma Agrária",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.mun-montijo.pt/conhecer/mercados/poi/mercado-de-levante-vulgo-mercado-da-reforma-agraria",
+        "Phone": null,
+        "Full Address": "Mercado da Reforma Agrária, R. Miguel Pais, Montijo, Portugal",
+        "City": "Montijo",
+        "District": "Setúbal",
+        "Longitude": -8.9751052,
+        "Latitude": 38.7021826,
+        "Email": "geral@mun-montijo.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"7am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercadinho de Estremoz",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercadinho de Estremoz, Rossio Marquês de Pombal 7100, Estremoz, Portugal",
+        "City": "Estremoz",
+        "District": "Évora",
+        "Longitude": -7.5851798,
+        "Latitude": 38.8418336,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado de Verduras",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado de Verduras, 41°41'58. 8°49'30., R. 8 5, Portugal",
+        "City": "Viana do Castelo",
+        "District": "Viana do Castelo",
+        "Longitude": -8.82521,
+        "Latitude": 41.699592,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7am-2pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Labronso & Filhos, Lda // Mercearia - Bricolagem - Agricultura",
+        "Services": [
+            "Building materials store",
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards"
+        ],
+        "Website": null,
+        "Phone": "+351 961 477 075",
+        "Full Address": "Labronso & Filhos, Lda // Mercearia - Bricolagem - Agricultura, R. Dr. Dias Calazans 23, 6040-100 Gavião, Portugal",
+        "City": "Gavião",
+        "District": "Portalegre",
+        "Longitude": -7.9360045,
+        "Latitude": 39.4644797,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"9am-1pm\"}"
+    },
+    {
+        "Name": "Quinta do Meloal (CAS lda)",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 919 450 723",
+        "Full Address": "Quinta do Meloal (CAS lda), Arjona,cx 149-A, Estoi, 8005-411 Faro, Portugal",
+        "City": "Faro",
+        "District": "Faro",
+        "Longitude": -7.91891,
+        "Latitude": 37.065065,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Campo da Feira",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Campo da Feira, Av. Amílcar Neto 270, 4620-687 Lousada, Portugal",
+        "City": "Lousada",
+        "District": "Distrito do Porto",
+        "Longitude": -8.2784631,
+        "Latitude": 41.276566,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado de Vila Nova de Milfontes",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado de Vila Nova de Milfontes, R. da Praça, 7645-218 Vila Nova de Milfontes, Portugal",
+        "City": "Odemira",
+        "District": "Beja",
+        "Longitude": -8.7830567,
+        "Latitude": 37.7290472,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8:30am-2pm\", \"Wednesday\": \"8:30am-2pm\", \"Thursday\": \"8:30am-2pm\", \"Friday\": \"8:30am-2pm\", \"Saturday\": \"8:30am-2pm\", \"Sunday\": \"8:30am-2pm\"}"
+    },
+    {
+        "Name": "Mercado Municipal",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado Municipal, Pça Sacadura Cabral, 7860-207 Moura, Portugal",
+        "City": "Moura",
+        "District": "Beja",
+        "Longitude": -7.4508752,
+        "Latitude": 38.1430129,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Drogaria Feira Nova - Manuel Moreira & Cª, Lda",
+        "Services": [
+            "Appliance store",
+            "Building materials store",
+            "Electronics store",
+            "Farm equipment supplier",
+            "Farmers market",
+            "Home goods store",
+            "Paint store",
+            "Plumbing supply store",
+            "Pottery store",
+            "Tool store"
+        ],
+        "Features": [
+            "Checks Accepted",
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Quick Visit Friendly",
+            "Delivery Available"
+        ],
+        "Website": "https://www.drogariafeiranova.com.pt",
+        "Phone": "+351 22 981 2698",
+        "Full Address": "Drogaria Feira Nova - Manuel Moreira & Cª, Lda, R. Vale do Coronado 1629, 4745-417 Trofa, Portugal",
+        "City": "Maia",
+        "District": "Distrito do Porto",
+        "Longitude": -8.5747466,
+        "Latitude": 41.2664152,
+        "Email": "info@drogariafeiranova.com.pt",
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-7pm\", \"Tuesday\": \"8am-12:30pm, 2-7pm\", \"Wednesday\": \"8am-12:30pm, 2-7pm\", \"Thursday\": \"8am-12:30pm, 2-7pm\", \"Friday\": \"8am-12:30pm, 2-7pm\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Húmus Agricultura Biológica",
+        "Services": [
+            "Farmers market",
+            "Organic farm",
+            "Organic shop"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 932 687 337",
+        "Full Address": "Húmus Agricultura Biológica, Tv. Anselmo Braancamp 53, 4410-359 Arcozelo, Portugal",
+        "City": "Vila Nova de Gaia",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6402293,
+        "Latitude": 41.0423839,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"10am-7pm\", \"Wednesday\": \"10am-7pm\", \"Thursday\": \"10am-7pm\", \"Friday\": \"10am-7:30pm\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico de Matosinhos",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://lifecooler.com/artigo/atividades/mercado-biologico-de-matosinhos/405338",
+        "Phone": null,
+        "Full Address": "Mercado Biológico de Matosinhos, Parque Basílio Teles, 4450-030 Matosinhos, Portugal",
+        "City": "Matosinhos",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6840396,
+        "Latitude": 41.1828613,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Agro Oliveira",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 914 906 641",
+        "Full Address": "Agro Oliveira, R. de Areias 95, Braga, Portugal",
+        "City": "Braga",
+        "District": "Braga",
+        "Longitude": -8.3712593,
+        "Latitude": 41.5679839,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Pagromil",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards"
+        ],
+        "Website": "https://www.facebook.com/pagromillda",
+        "Phone": "+351 253 287 548",
+        "Full Address": "Pagromil, R. da Lameira 80, 4710-093 Gualtar, Portugal",
+        "City": "Braga",
+        "District": "Braga",
+        "Longitude": -8.3871927,
+        "Latitude": 41.5654306,
+        "Email": "pagromil@sapo.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-6:30pm\", \"Tuesday\": \"8:30am-6:30pm\", \"Wednesday\": \"8:30am-6:30pm\", \"Thursday\": \"8:30am-6:30pm\", \"Friday\": \"8:30am-6:30pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Frutaria da Rosinha",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Frutaria da Rosinha, R. Manuel Morais 8, 4990-083 Pte. de Lima, Portugal",
+        "City": "Ponte de Lima",
+        "District": "Viana do Castelo",
+        "Longitude": -8.5835195,
+        "Latitude": 41.7677591,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Berrylima, Lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.berrylima.com",
+        "Phone": "+351 912 036 687",
+        "Full Address": "Berrylima, Lda, Arcos, Portugal",
+        "City": "Ponte de Lima",
+        "District": "Viana do Castelo",
+        "Longitude": -8.6468112,
+        "Latitude": 41.7656009,
+        "Email": "berrylima@sapo.pt",
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "S.E.E.D - Sociedade Europeia de Exportação e Distribuição, S.A.",
+        "Services": [
+            "Farmers market",
+            "Organic farm",
+            "Outlet mall",
+            "Seed supplier"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.seed.pt",
+        "Phone": "+351 22 605 1160",
+        "Full Address": "S.E.E.D - Sociedade Europeia de Exportação e Distribuição, S.A., R. Silva Aroso 1342, 4455-594 Perafita, Portugal",
+        "City": "Matosinhos",
+        "District": "Distrito do Porto",
+        "Longitude": -8.7004597,
+        "Latitude": 41.2383867,
+        "Email": "info@seed.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12pm, 2-7pm\", \"Tuesday\": \"9am-12pm, 2-7pm\", \"Wednesday\": \"9am-12pm, 2-7pm\", \"Thursday\": \"9am-12pm, 2-7pm\", \"Friday\": \"9am-12pm, 2-7pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Casa da Lavoura José Eugénio Prod. Agric. Jardinagem, Unipessoal, Lda.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 241 855 121",
+        "Full Address": "Casa da Lavoura José Eugénio Prod. Agric. Jardinagem, Unipessoal, Lda., R. Dr. Álvaro Andrade e Silva Passarinho 10, 2230-138 Sardoal, Portugal",
+        "City": "Sardoal",
+        "District": "Santarém",
+        "Longitude": -8.162088,
+        "Latitude": 39.5361855,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-5:30pm\", \"Tuesday\": \"9am-1pm, 3-5:30pm\", \"Wednesday\": \"9am-1pm, 3-5:30pm\", \"Thursday\": \"9am-1pm, 3-5:30pm\", \"Friday\": \"9am-1pm, 3-5:30pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "NETRURAL Comércio De Produtos Agro-Pecuários, LDA",
+        "Services": [
+            "Agricultural service",
+            "Farm equipment supplier",
+            "Farmers market",
+            "Manufacturer",
+            "Pet supply store"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.netrural.pt",
+        "Phone": "+351 252 418 454",
+        "Full Address": "NETRURAL Comércio De Produtos Agro-Pecuários, LDA, R. Dom Sancho I 2671, 4760-485 Vila Nova de Famalicão, Portugal",
+        "City": "Vila Nova de Famalicão",
+        "District": "Braga",
+        "Longitude": -8.602054,
+        "Latitude": 41.373335,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 2-7pm\", \"Tuesday\": \"9am-12:30pm, 2-7pm\", \"Wednesday\": \"9am-12:30pm, 2-7pm\", \"Thursday\": \"9am-12:30pm, 2-7pm\", \"Friday\": \"9am-12:30pm, 2-7pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado do Calhabé",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado do Calhabé, Tv. dos Combatentes da Grande Guerra 8, Coimbra, Portugal",
+        "City": "Coimbra",
+        "District": "Coimbra",
+        "Longitude": -8.4137858,
+        "Latitude": 40.2024234,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Planafarm",
+        "Services": [
+            "Corporate office",
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.planafarm.com",
+        "Phone": null,
+        "Full Address": "Planafarm, MARL, Av. de Santa Maria – B05 701, 2660-421, Portugal",
+        "City": "Vila Franca de Xira",
+        "District": "Lisboa",
+        "Longitude": -9.1045398,
+        "Latitude": 38.8673913,
+        "Email": "info@planafarm.com",
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Loures",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Loures, 2670-389 Loures, Portugal",
+        "City": "Loures",
+        "District": "Lisboa",
+        "Longitude": -9.1616628,
+        "Latitude": 38.8418788,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"7am-12pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Sociedade Agrícola Carlos Pinheiro, Lda.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": "+351 263 769 254",
+        "Full Address": "Sociedade Agrícola Carlos Pinheiro, Lda., R. Nossa Sra. do Amparo 6, Penafirme, Portugal",
+        "City": "Alenquer",
+        "District": "Lisboa",
+        "Longitude": -9.0914453,
+        "Latitude": 39.1323854,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1:30pm, 230-6pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Ana Maria Fidalgo",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": "http://www.anamariafidalgo.pt",
+        "Phone": "+351 21 982 7800",
+        "Full Address": "Ana Maria Fidalgo, R. Mal. Craveiro Lopes 82-C, Loures, Portugal",
+        "City": "Loures",
+        "District": "Lisboa",
+        "Longitude": -9.1718194,
+        "Latitude": 38.8456042,
+        "Email": "geral@anamariafidalgo.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Amadora",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Amadora, Av. da República 10, 2700-159 Amadora, Portugal",
+        "City": "Amadora",
+        "District": "Lisboa",
+        "Longitude": -9.2367904,
+        "Latitude": 38.7595151,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Abastecedor de Aveiro",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado Abastecedor de Aveiro, R. Do Sol, 3800-639 Cacia, Portugal",
+        "City": "Aveiro",
+        "District": "Aveiro",
+        "Longitude": -8.6067801,
+        "Latitude": 40.6571504,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"5-11pm\", \"Tuesday\": \"Closed\", \"Wednesday\": \"5-11pm\", \"Thursday\": \"Closed\", \"Friday\": \"5-11pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Municipal de Ílhavo",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom"
+        ],
+        "Website": null,
+        "Phone": "+351 234 321 725",
+        "Full Address": "Mercado Municipal de Ílhavo, Parque Urbano da Senhora do Pranto, 3830-046 Ílhavo, Portugal",
+        "City": "Ílhavo",
+        "District": "Aveiro",
+        "Longitude": -8.6627471,
+        "Latitude": 40.5971008,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7am-1pm\", \"Saturday\": \"7am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Quinta dos 5 Outeiros",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://agropecuaria-de-alcanhoes.webnode.pt",
+        "Phone": "+351 937 467 325",
+        "Full Address": "Quinta dos 5 Outeiros, Quinta dos cinco Outeiros, 2000-352 Alcanhões, Portugal",
+        "City": "Santarém",
+        "District": "Santarém",
+        "Longitude": -8.644276,
+        "Latitude": 39.2842822,
+        "Email": "agropecuariaalcanhoes@hotmail.com",
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "David Grilo Lda",
+        "Services": [
+            "Agricultural service"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking",
+            "Women Owned"
+        ],
+        "Website": null,
+        "Phone": "+351 964 086 508",
+        "Full Address": "David Grilo Lda, Zona Industrial de Almeirim, Rua D 19, 2080-221 Almeirim, Portugal",
+        "City": "Almeirim",
+        "District": "Santarém",
+        "Longitude": -8.6247219,
+        "Latitude": 39.1945331,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-5:30pm\", \"Tuesday\": \"8:30am-5:30pm\", \"Wednesday\": \"8:30am-5:30pm\", \"Thursday\": \"8:30am-5:30pm\", \"Friday\": \"8:30am-5:30pm\", \"Saturday\": \"8:30am-5:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Quinta das Laranjeiras",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Car Park",
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "http://www.verdecaldas.com",
+        "Phone": "+351 915 267 859",
+        "Full Address": "Quinta das Laranjeiras, R. Padre Bonifácio, Carvalhal Benfeito, Portugal",
+        "City": "Caldas da Rainha",
+        "District": "Leiria",
+        "Longitude": -9.0397451,
+        "Latitude": 39.436704,
+        "Email": "verdecaldas@gmail.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Vitalcampo, Lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Mobile Payments",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Mastercard"
+        ],
+        "Website": null,
+        "Phone": "+351 262 148 698",
+        "Full Address": "Vitalcampo, Lda, Nº 11 - Murteira, R. Padre José Inácio Pereira, 2550-368, Portugal",
+        "City": "Cadaval",
+        "District": "Lisboa",
+        "Longitude": -9.0682647,
+        "Latitude": 39.2344411,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-7pm\", \"Tuesday\": \"9am-7pm\", \"Wednesday\": \"9am-7pm\", \"Thursday\": \"9am-7pm\", \"Friday\": \"9am-7pm\", \"Saturday\": \"9am-7pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Couto & Lourenço lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 914 522 811",
+        "Full Address": "Couto & Lourenço lda, R. 4 de Julho 6, Vimeiro, Portugal",
+        "City": "Alcobaça",
+        "District": "Leiria",
+        "Longitude": -9.0363142,
+        "Latitude": 39.4726957,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "Cidipec",
+        "Services": [
+            "Farmers market",
+            "Grocery store"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 244 765 312",
+        "Full Address": "Cidipec, R. Principal nº15, 2440-036 Batalha, Portugal",
+        "City": "Batalha",
+        "District": "Leiria",
+        "Longitude": -8.8154978,
+        "Latitude": 39.6543984,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1:30pm, 230-7pm\", \"Tuesday\": \"9am-1:30pm, 230-7pm\", \"Wednesday\": \"9am-1:30pm, 230-7pm\", \"Thursday\": \"9am-1:30pm, 230-7pm\", \"Friday\": \"9am-1:30pm, 230-7pm\", \"Saturday\": \"9am-1:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Grândola Farmer's Market at Road",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Grândola Farmer's Market at Road, Grândola, Portugal",
+        "City": "Grândola",
+        "District": "Setúbal",
+        "Longitude": -8.5544737,
+        "Latitude": 38.2298902,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Praia das Maçãs Market",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Praia das Maçãs Market, Av. Eugene Levy 31, Praia das Maçãs, 2705-304 Colares, Portugal",
+        "City": "Sintra",
+        "District": "Lisboa",
+        "Longitude": -9.4673798,
+        "Latitude": 38.824651,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7am-1:30pm\", \"Wednesday\": \"7am-1:30pm\", \"Thursday\": \"7am-1:30pm\", \"Friday\": \"7am-1:30pm\", \"Saturday\": \"7am-1:30pm\", \"Sunday\": \"7am-1:30pm\"}"
+    },
+    {
+        "Name": "Celeiro de Lafões",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Donations Accepted",
+            "Mobile Payments",
+            "Free Parking Garage",
+            "Free Parking Lot",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "On-Site Parking"
+        ],
+        "Website": "https://www.facebook.com/celeirodelafoes",
+        "Phone": "+351 232 763 373",
+        "Full Address": "Celeiro de Lafões, Rua dos Vales, Rua das Vales s/n, 3680-322, Portugal",
+        "City": "Oliveira de Frades",
+        "District": "Viseu",
+        "Longitude": -8.1774271,
+        "Latitude": 40.7163338,
+        "Email": "celeirodelafoes@gmail.com",
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 230-6:30pm\", \"Tuesday\": \"8:30am-12:30pm, 230-6:30pm\", \"Wednesday\": \"8:30am-12:30pm, 230-6:30pm\", \"Thursday\": \"8:30am-12:30pm, 130-6:30pm\", \"Friday\": \"8:30am-12:30pm, 230-6:30pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Nuts 4 Berries, Lda",
+        "Services": [
+            "Agricultural production",
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 289 092 535",
+        "Full Address": "Nuts 4 Berries, Lda, Caminho Agrícola Biogal, 8005-412 Faro, Portugal",
+        "City": "Faro",
+        "District": "Faro",
+        "Longitude": -7.9636787,
+        "Latitude": 37.057021,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado 25 de Abril",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado 25 de Abril, R. do Mercado A, 8650-372 Sagres, Portugal",
+        "City": "Vila do Bispo",
+        "District": "Faro",
+        "Longitude": -8.9398606,
+        "Latitude": 37.0127184,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8am-1pm\", \"Wednesday\": \"8am-1pm\", \"Thursday\": \"8am-1pm\", \"Friday\": \"8am-1pm\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Feira Cultural de Coimbra",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Feira Cultural de Coimbra, Parque Dr. Manoel Braga, Portugal",
+        "City": "Coimbra",
+        "District": "Coimbra",
+        "Longitude": -8.4102573,
+        "Latitude": 40.2033145,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Agro Tavares & Marques",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Agro Tavares & Marques, EM617, Reigoso, Portugal",
+        "City": "Oliveira de Frades",
+        "District": "Viseu",
+        "Longitude": -8.2586751,
+        "Latitude": 40.6949566,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Bagas da Silva",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": "+351 918 055 985",
+        "Full Address": "Bagas da Silva, 3670-043, Portugal",
+        "City": "Vouzela",
+        "District": "Viseu",
+        "Longitude": -8.1453709,
+        "Latitude": 40.6899893,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Casa Agrícola",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 255 732 452",
+        "Full Address": "Casa Agrícola, R. Dom José de Arrochela 4550 396, 4575-215 Castelo de Paiva, Portugal",
+        "City": "Castelo de Paiva",
+        "District": "Aveiro",
+        "Longitude": -8.2727266,
+        "Latitude": 41.0447893,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercadinho Biológico e Artesanal de Guimarães",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://www.facebook.com/mercadinhoguimaraes",
+        "Phone": "+351 912 840 699",
+        "Full Address": "Mercadinho Biológico e Artesanal de Guimarães, R. Alfredo Guimarães 27, 4810-431 Guimarães, Portugal",
+        "City": "Guimarães",
+        "District": "Braga",
+        "Longitude": -8.2926639,
+        "Latitude": 41.4427541,
+        "Email": "biomercadinho@gmail.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado de Riba de Ave",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado de Riba de Ave, Av. Narciso Ferreira 73, 4765-202 Riba d'Ave, Portugal",
+        "City": "Vila Nova de Famalicão",
+        "District": "Braga",
+        "Longitude": -8.3968058,
+        "Latitude": 41.3898888,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "Mercadinho de Produtores",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercadinho de Produtores, Av. 5 de Outubro 99, 8700-304 Olhão, Portugal",
+        "City": "Olhão",
+        "District": "Faro",
+        "Longitude": -7.8405409,
+        "Latitude": 37.023481,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa Dos Produtores Agricolas Do Concelho De Valongo, Crl.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://loja.coopvalongo.pt",
+        "Phone": "+351 22 421 9160",
+        "Full Address": "Cooperativa Dos Produtores Agricolas Do Concelho De Valongo, Crl., R. Dom Pedro IV 615 25, 4440-633 Valongo, Portugal",
+        "City": "Valongo",
+        "District": "Distrito do Porto",
+        "Longitude": -8.5049228,
+        "Latitude": 41.198819,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 2-6pm\", \"Tuesday\": \"9am-12:30pm, 2-6pm\", \"Wednesday\": \"9am-12:30pm, 2-6pm\", \"Thursday\": \"9am-12:30pm, 2-6pm\", \"Friday\": \"9am-12:30pm, 2-6pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa agricultores Santo Tirso E Trofa",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 252 808 730",
+        "Full Address": "Cooperativa agricultores Santo Tirso E Trofa, R. Giesteira 150, Santo Tirso, Portugal",
+        "City": "Santo Tirso",
+        "District": "Distrito do Porto",
+        "Longitude": -8.4812988,
+        "Latitude": 41.3348699,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 2-6pm\", \"Tuesday\": \"9am-1pm, 2-6pm\", \"Wednesday\": \"9am-1pm, 2-6pm\", \"Thursday\": \"9am-1pm, 2-6pm\", \"Friday\": \"9am-1pm, 2-6pm\", \"Saturday\": \"9am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Municipal",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.cm-sardoal.pt",
+        "Phone": "+351 241 851 498",
+        "Full Address": "Mercado Municipal, R. Lúcio Serras Pereira, 2230-139 Sardoal, Portugal",
+        "City": "Sardoal",
+        "District": "Santarém",
+        "Longitude": -8.1616571,
+        "Latitude": 39.534611,
+        "Email": "emergencia.social@cm-sardoal.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"7:30am-1pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"7:30am-1pm\", \"Saturday\": \"7:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Peixaria Isabel & Filho",
+        "Services": [
+            "Seafood market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://fernandomanuelcinz.wixsite.com/website",
+        "Phone": "+351 966 014 919",
+        "Full Address": "Peixaria Isabel & Filho, Mercado Municipal, Praça Prof. Bento Jesus Caraça, 7050-112 Montemor-o-Novo, Portugal",
+        "City": "Montemor-O-Novo",
+        "District": "Évora",
+        "Longitude": -8.216309,
+        "Latitude": 38.6478881,
+        "Email": "fernandomanuelcinzas@gmail.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"8am-2pm\", \"Wednesday\": \"8am-2pm\", \"Thursday\": \"8am-2pm\", \"Friday\": \"8am-2pm\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Frutas S.Fautino",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 967 051 482",
+        "Full Address": "Frutas S.Fautino, Calçada do Bairro, 4815-744 São Paio Vizela, Portugal",
+        "City": "Vizela",
+        "District": "Braga",
+        "Longitude": -8.2654081,
+        "Latitude": 41.3883296,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"8am-1pm\"}"
+    },
+    {
+        "Name": "Cunicultura - Marguerita Teixeira Monteiro",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 937 650 312",
+        "Full Address": "Cunicultura - Marguerita Teixeira Monteiro, Portugal",
+        "City": "Vila Pouca de Aguiar",
+        "District": "Vila Real",
+        "Longitude": -7.6510575,
+        "Latitude": 41.4742532,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-8pm\", \"Tuesday\": \"8am-8pm\", \"Wednesday\": \"8am-8pm\", \"Thursday\": \"8am-8pm\", \"Friday\": \"8am-8pm\", \"Saturday\": \"8am-8pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "AgroParanho",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "AgroParanho, R. Carreira Gasta 39, 3465-103 Caparrosa, Portugal",
+        "City": "Tondela",
+        "District": "Viseu",
+        "Longitude": -8.099872,
+        "Latitude": 40.6124607,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Antigo Mercado Municipal",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Antigo Mercado Municipal, Largo República 35, 3460-588 Tondela, Portugal",
+        "City": "Tondela",
+        "District": "Viseu",
+        "Longitude": -8.0791992,
+        "Latitude": 40.5169933,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Pereira & Almeida, lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 254 858 151",
+        "Full Address": "Pereira & Almeida, lda, Av. Nossa Sra. das Neves, Armamar, Portugal",
+        "City": "Armamar",
+        "District": "Viseu",
+        "Longitude": -7.6721519,
+        "Latitude": 41.0962322,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Chuva - Loja Agrícola",
+        "Services": [
+            "Farm shop"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Free Parking Lot",
+            "Free Street Parking",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Online Order Pickup",
+            "On-Site Parking"
+        ],
+        "Website": "http://www.chuvalojaagricola.pt",
+        "Phone": "+351 933 138 857",
+        "Full Address": "Chuva - Loja Agrícola, R. 29 de Junho 20 Loja B, 4750-847 Vila Frescainha (São Pedro), Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.6372607,
+        "Latitude": 41.5264056,
+        "Email": "geral@chuvalojaagricola.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Maiaflor",
+        "Services": [
+            "Distribution service",
+            "Farmers market",
+            "Flower delivery",
+            "Warehouse store",
+            "Wholesale florist"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 917 595 174",
+        "Full Address": "Maiaflor, R. Guilherme Sousa Silva 555, 4425-338 Folgosa, Portugal",
+        "City": "Maia",
+        "District": "Distrito do Porto",
+        "Longitude": -8.5241295,
+        "Latitude": 41.2720566,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-12:30pm, 2-5pm\", \"Tuesday\": \"8am-12:30pm, 2-5pm\", \"Wednesday\": \"8am-12:30pm, 2-5pm\", \"Thursday\": \"8am-12:30pm, 2-5pm\", \"Friday\": \"8am-12:30pm, 2-4:50pm\", \"Saturday\": \"8am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa Agricola de Barcelos",
+        "Services": [
+            "Farm shop",
+            "Farmers market",
+            "Manufacturer"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Quick Visit Friendly",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.agribar.pt",
+        "Phone": "+351 253 808 020",
+        "Full Address": "Cooperativa Agricola de Barcelos, R. da Boela 252, 4750-782 Vila Boa, Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.6181287,
+        "Latitude": 41.5535408,
+        "Email": "coop@agribar.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6pm\", \"Thursday\": \"8:30am-12:30pm, 2-6pm\", \"Friday\": \"8:30am-12:30pm, 2-6pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Jose Antonio Barbosa Moreira & Ca, Lda.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Dogs Allowed",
+            "Dogs Allowed Inside",
+            "Free Parking Lot",
+            "Free Street Parking",
+            "Gender Neutral Restroom",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "LGBTQ+ Friendly",
+            "No Wheelchair Accessible Restroom",
+            "No Wheelchair Accessible Seating",
+            "On-Site Parking",
+            "Transgender Safe Space"
+        ],
+        "Website": null,
+        "Phone": "+351 22 433 7320",
+        "Full Address": "Jose Antonio Barbosa Moreira & Ca, Lda., R. Ernesto Silva 119, 4585-545 Sobreira, Portugal",
+        "City": "Paredes",
+        "District": "Distrito do Porto",
+        "Longitude": -8.3963662,
+        "Latitude": 41.1539222,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-12pm, 2-7pm\", \"Tuesday\": \"8:30am-12pm, 2-7pm\", \"Wednesday\": \"8:30am-12pm, 2-7pm\", \"Thursday\": \"8:30am-12pm, 2-7pm\", \"Friday\": \"8:30am-12pm, 2-7pm\", \"Saturday\": \"9am-12pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Algés",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Portugal, Algés, Mercado Biológico Agrobio - Algés",
+        "City": "Oeiras",
+        "District": "Lisboa",
+        "Longitude": -9.2306906,
+        "Latitude": 38.6990654,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Almada",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Almada, Praça Movimento das Forças Armadas 7B, 2800-171 Almada, Portugal",
+        "City": "Almada",
+        "District": "Setúbal",
+        "Longitude": -9.1562242,
+        "Latitude": 38.6803063,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "PERDIZLIXA",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 962 542 548",
+        "Full Address": "PERDIZLIXA, Rua Quinta da Igreja, 4615-561 Felgueiras, Portugal",
+        "City": "Felgueiras",
+        "District": "Distrito do Porto",
+        "Longitude": -8.1381563,
+        "Latitude": 41.3263474,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8:30am-6pm\", \"Sunday\": \"8:30am-6pm\"}"
+    },
+    {
+        "Name": "Agricultor Otávio e Aurora",
+        "Services": [
+            "Farmers market",
+            "Organic farm"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 259 539 165",
+        "Full Address": "Agricultor Otávio e Aurora, Bairro Novo 16, Zebras, 5430-302, Portugal",
+        "City": "Valpaços",
+        "District": "Vila Real",
+        "Longitude": -7.3848962,
+        "Latitude": 41.4638934,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-8pm\", \"Tuesday\": \"8am-8pm\", \"Wednesday\": \"8am-8pm\", \"Thursday\": \"8am-8pm\", \"Friday\": \"8am-8pm\", \"Saturday\": \"8am-8pm\", \"Sunday\": \"8am-8pm\"}"
+    },
+    {
+        "Name": "Azeites Milénium",
+        "Services": [
+            "Farm shop",
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.azeitesmilenium.pt",
+        "Phone": "+351 278 203 115",
+        "Full Address": "Azeites Milénium, Zona Industrial 4 - Sector L, 5370-565 Mirandela, Portugal",
+        "City": "Mirandela",
+        "District": "Bragança",
+        "Longitude": -7.16669,
+        "Latitude": 41.501498,
+        "Email": "geral@azeitesmilenium.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12:30pm, 230-6:30pm\", \"Tuesday\": \"9am-12:30pm, 230-6:30pm\", \"Wednesday\": \"9am-12:30pm, 230-6:30pm\", \"Thursday\": \"9am-12:30pm, 230-6:30pm\", \"Friday\": \"9am-12:30pm, 230-6:30pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado de Agricultura Biológica",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Mobile Payments",
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado de Agricultura Biológica, Av. Arriaga, São Martinho, 9000-045 Funchal, Portugal",
+        "City": "Funchal",
+        "District": "Madeira",
+        "Longitude": -16.9121261,
+        "Latitude": 32.6470217,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"9am-1pm\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Santo da Serra Farmers Market",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "On-Site Services"
+        ],
+        "Website": "http://www.jf-santoantoniodaserra.pt",
+        "Phone": null,
+        "Full Address": "Santo da Serra Farmers Market, ER207 376, 9100-255 Santo António da Serra, Portugal",
+        "City": "Machico",
+        "District": "Madeira",
+        "Longitude": -16.8207314,
+        "Latitude": 32.7255697,
+        "Email": "juntadosanto@sapo.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-5pm\", \"Sunday\": \"9am-5pm\"}"
+    },
+    {
+        "Name": "Mercado Municipal de Santana",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado Municipal de Santana, 9230-082 Santana, Portugal",
+        "City": "Santana",
+        "District": "Madeira",
+        "Longitude": -16.8823979,
+        "Latitude": 32.804894,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"10am-6pm\", \"Saturday\": \"10am-6pm\", \"Sunday\": \"10am-6pm\"}"
+    },
+    {
+        "Name": "Feira de Nossa Senhora da Assunção",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Feira de Nossa Senhora da Assunção, CM1105, 4825, Portugal",
+        "City": "Santo Tirso",
+        "District": "Distrito do Porto",
+        "Longitude": -8.445835,
+        "Latitude": 41.3244885,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "A Neta do Laranjeiro - Frutas e Legumes do Produtor (entregas ao domicílio)",
+        "Services": [
+            "Farmers market",
+            "Fresh food market",
+            "Greengrocer",
+            "Produce market",
+            "Vegetable wholesale market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Gender Neutral Restroom",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://www.instagram.com/netadolaranjeiro",
+        "Phone": "+351 939 436 799",
+        "Full Address": "A Neta do Laranjeiro - Frutas e Legumes do Produtor (entregas ao domicílio), Mercado Municipal, R. dos Varinos, 2600-000 Vila Franca de Xira, Portugal",
+        "City": "Vila Franca de Xira",
+        "District": "Lisboa",
+        "Longitude": -8.9905875,
+        "Latitude": 38.953473,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"8am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Celeiro do Loureiro",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.facebook.com/celeirode.loureiro",
+        "Phone": "+351 256 692 391",
+        "Full Address": "Celeiro do Loureiro, R. Padre Manuel Laranjeira 1417, Portugal",
+        "City": "Oliveira de Azeméis",
+        "District": "Aveiro",
+        "Longitude": -8.5327194,
+        "Latitude": 40.8109552,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Agricola",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado Agricola, Rua Teófilo Braga 81, 9680 Vila Franca Do Campo, Portugal",
+        "City": "Vila Franca do Campo",
+        "District": "Azores",
+        "Longitude": -25.4357535,
+        "Latitude": 37.71601,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-6pm\", \"Tuesday\": \"9am-6pm\", \"Wednesday\": \"9am-6pm\", \"Thursday\": \"9am-6pm\", \"Friday\": \"9am-6pm\", \"Saturday\": \"9am-6pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Belchior Lda",
+        "Services": [
+            "Farmers market",
+            "Warehouse"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 286 322 846",
+        "Full Address": "Belchior Lda, Castro Verde, Portugal",
+        "City": "Castro Verde",
+        "District": "Beja",
+        "Longitude": -8.096028,
+        "Latitude": 37.6920087,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"6am-5pm\", \"Tuesday\": \"6am-5pm\", \"Wednesday\": \"6am-5pm\", \"Thursday\": \"6am-5pm\", \"Friday\": \"6am-5pm\", \"Saturday\": \"6am-12pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Farmácia Agrícola de Anadia",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards"
+        ],
+        "Website": null,
+        "Phone": "+351 231 504 511",
+        "Full Address": "Farmácia Agrícola de Anadia, R. Manuel Ribeiro nº 29, 3780-235 Anadia, Portugal",
+        "City": "Anadia",
+        "District": "Aveiro",
+        "Longitude": -8.4333728,
+        "Latitude": 40.4400353,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-7pm\", \"Tuesday\": \"8:30am-12:30pm, 2-7pm\", \"Wednesday\": \"8:30am-12:30pm, 2-7pm\", \"Thursday\": \"8:30am-12:30pm, 2-7pm\", \"Friday\": \"8:30am-12:30pm, 2-7pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado dos Agricultores - Pombal",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado dos Agricultores - Pombal, R. Dr. Custódio Freire 3100, 3100-464 Pombal, Portugal",
+        "City": "Pombal",
+        "District": "Leiria",
+        "Longitude": -8.6258024,
+        "Latitude": 39.9155513,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico Agrobio - Portimão",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://agrobio.pt/consumidor/mercados-agrobio",
+        "Phone": "+351 21 364 1354",
+        "Full Address": "Mercado Biológico Agrobio - Portimão, 8500-802 Portimão, Portugal",
+        "City": "Portimão",
+        "District": "Faro",
+        "Longitude": -8.5342191,
+        "Latitude": 37.1381312,
+        "Email": "geral@agrobio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"9am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mimagro - Loja 2 Fundão",
+        "Services": [
+            "Farmers market",
+            "Garden",
+            "Home improvement store"
+        ],
+        "Features": [
+            "Debit Cards",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Women Owned",
+            "LGBTQ+ Friendly",
+            "Mastercard",
+            "Transgender Safe Space",
+            "Visa"
+        ],
+        "Website": "http://www.mimagro.pt",
+        "Phone": "+351 275 772 071",
+        "Full Address": "Mimagro - Loja 2 Fundão, Mata Nacional de Vale de Canas, Edifício Fundabeiras, 6230-481 Fundão, Portugal",
+        "City": "Fundão",
+        "District": "Castelo Branco",
+        "Longitude": -7.4974632,
+        "Latitude": 40.1539942,
+        "Email": "geral@mimagro.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 230-6:30pm\", \"Tuesday\": \"9am-12:45pm, 230-6:30pm\", \"Wednesday\": \"9am-12:45pm, 230-6:30pm\", \"Thursday\": \"9am-12pm, 230-6:30pm\", \"Friday\": \"9am-12:45pm, 230-6:30pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mimagro",
+        "Services": [
+            "Farmers market",
+            "Garden",
+            "Home improvement store"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Quick Visit Friendly",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Women Owned",
+            "LGBTQ+ Friendly",
+            "Delivery Available",
+            "Transgender Safe Space"
+        ],
+        "Website": "http://www.mimagro.pt",
+        "Phone": "+351 275 773 106",
+        "Full Address": "Mimagro, Av. Monsenhor Santos Carreto, 6230-216 Fundão, Portugal",
+        "City": "Fundão",
+        "District": "Castelo Branco",
+        "Longitude": -7.5050841,
+        "Latitude": 40.1372616,
+        "Email": "geral@mimagro.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 3-6:30pm\", \"Tuesday\": \"9am-12:45pm, 3-6:30pm\", \"Wednesday\": \"9am-12:45pm, 3-6:30pm\", \"Thursday\": \"9am-12:45pm, 3-6:30pm\", \"Friday\": \"9am-12:45pm, 3-6:30pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Vivo Mercado Lagos",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Mobile Payments",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.facebook.com/vivomercado",
+        "Phone": null,
+        "Full Address": "Vivo Mercado Lagos, 8600-645 Lagos, Portugal",
+        "City": "Lagos",
+        "District": "Faro",
+        "Longitude": -8.6757077,
+        "Latitude": 37.1073119,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"4-8pm\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Largo da Feira de Portomar",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://tudoemfrutas.com",
+        "Phone": null,
+        "Full Address": "Largo da Feira de Portomar, R. da Gândara 3, 3070-357 Mira, Portugal",
+        "City": "Mira",
+        "District": "Coimbra",
+        "Longitude": -8.7333876,
+        "Latitude": 40.4499228,
+        "Email": "contato@guiadamusculacao.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "HTN Distribuição Alimentar Unipessoal Lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 249 728 733",
+        "Full Address": "HTN Distribuição Alimentar Unipessoal Lda, Variante do Bom Amor, 2350-649 Torres Novas, Portugal",
+        "City": "Torres Novas",
+        "District": "Santarém",
+        "Longitude": -8.5253695,
+        "Latitude": 39.4680789,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Lusoleaves",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.lusoleaves.com",
+        "Phone": null,
+        "Full Address": "Lusoleaves, Estufas de Carapuças, 8670-440 Carapuças , Rogil, Aljezur, Portugal",
+        "City": "Aljezur",
+        "District": "Faro",
+        "Longitude": -8.785325,
+        "Latitude": 37.366851,
+        "Email": "info@lusoleaves.com",
+        "Operating Hours": "{\"Monday\": \"9am-5:30pm\", \"Tuesday\": \"9am-5:30pm\", \"Wednesday\": \"9am-5:30pm\", \"Thursday\": \"9am-5:30pm\", \"Friday\": \"9am-5:30pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Produção agricola",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Produção agricola, Silves, Portugal",
+        "City": "Silves",
+        "District": "Faro",
+        "Longitude": -8.3948884,
+        "Latitude": 37.1612445,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Back to Eden - B2E",
+        "Services": [
+            "Farm",
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 963 172 534",
+        "Full Address": "Back to Eden - B2E, R. Armazém Novo s/n, Olival, Portugal",
+        "City": "Vila Nova de Gaia",
+        "District": "Distrito do Porto",
+        "Longitude": -8.5291093,
+        "Latitude": 41.0725419,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"11am-2pm\", \"Tuesday\": \"11am-2pm\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "BioAlentejanices",
+        "Services": [
+            "Farmers market",
+            "Organic farm"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 967 037 374",
+        "Full Address": "BioAlentejanices, Estrada de Stº Amaro, nº2, 7470-209 Sousel, Portugal",
+        "City": "Sousel",
+        "District": "Portalegre",
+        "Longitude": -7.6612073,
+        "Latitude": 38.9565027,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Open 24 hours\", \"Sunday\": \"Open 24 hours\"}"
+    },
+    {
+        "Name": "César Agostinho Elias",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 917 908 160",
+        "Full Address": "César Agostinho Elias, R. João Afonso do Pó 27, 2540-513 Pó, Portugal",
+        "City": "Bombarral",
+        "District": "Leiria",
+        "Longitude": -9.2201569,
+        "Latitude": 39.3118618,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-7pm\", \"Tuesday\": \"8am-7pm\", \"Wednesday\": \"8am-7pm\", \"Thursday\": \"8am-7pm\", \"Friday\": \"8am-7pm\", \"Saturday\": \"8am-7pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Alberto Lopes Luis",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 236 621 191",
+        "Full Address": "Alberto Lopes Luis, Lugar, Rua de Coimbra 1079, Venda das Figueiras, Coimbra, Portugal",
+        "City": "Penela",
+        "District": "Coimbra",
+        "Longitude": -8.3722854,
+        "Latitude": 39.9423288,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-7pm\", \"Tuesday\": \"9am-1pm, 3-7pm\", \"Wednesday\": \"9am-1pm, 3-7pm\", \"Thursday\": \"9am-1pm, 3-7pm\", \"Friday\": \"9am-1pm, 3-7pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Batata Doce do Oeste",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": "https://www.batatadocedooeste.pt",
+        "Phone": "+351 917 346 592",
+        "Full Address": "Batata Doce do Oeste, Tv. do Poço Novo 6, 2560-407 Silveira, Portugal",
+        "City": "Torres Vedras",
+        "District": "Lisboa",
+        "Longitude": -9.3399772,
+        "Latitude": 39.1048185,
+        "Email": "geral@batatadocedooeste.pt",
+        "Operating Hours": "{\"Monday\": \"9am-5pm\", \"Tuesday\": \"9am-5pm\", \"Wednesday\": \"9am-5pm\", \"Thursday\": \"9am-5pm\", \"Friday\": \"9am-5pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mimagro - Loja Belmonte",
+        "Services": [
+            "Farmers market",
+            "Garden",
+            "Home improvement store"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Gender Neutral Restroom",
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Women Owned",
+            "LGBTQ+ Friendly",
+            "Transgender Safe Space"
+        ],
+        "Website": "http://www.mimagro.pt",
+        "Phone": "+351 275 249 050",
+        "Full Address": "Mimagro - Loja Belmonte, Sitio do Vale, 33, 6250-072 Belmonte, Portugal",
+        "City": "Belmonte",
+        "District": "Castelo Branco",
+        "Longitude": -7.3434759,
+        "Latitude": 40.3621751,
+        "Email": "geral@mimagro.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 3-6:30pm\", \"Tuesday\": \"9am-12:45pm, 3-6:30pm\", \"Wednesday\": \"9am-12:45pm, 3-6:30pm\", \"Thursday\": \"9am-12:45pm, 3-6:30pm\", \"Friday\": \"9am-12:45pm, 3-6:30pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Reforma Agrária de Lagos - Horticulas e Prod Locais",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Reforma Agrária de Lagos - Horticulas e Prod Locais, Largo do Rossio de São João Batista, 8600-645 Lagos, Portugal",
+        "City": "Lagos",
+        "District": "Faro",
+        "Longitude": -8.6758243,
+        "Latitude": 37.1073175,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"7am-2pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Multipurpose space Aljezur (EMA)",
+        "Services": [
+            "Fairground"
+        ],
+        "Features": [
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Restroom"
+        ],
+        "Website": "http://www.cm-aljezur.pt",
+        "Phone": "+351 282 990 010",
+        "Full Address": "Multipurpose space Aljezur (EMA), Aljezur, Portugal",
+        "City": "Aljezur",
+        "District": "Faro",
+        "Longitude": -8.7894115,
+        "Latitude": 37.3160531,
+        "Email": "geral@cm-aljezur.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa Agrícola de Barcelos - Armazém de Aldreu",
+        "Services": [
+            "Farm shop",
+            "Farmers market"
+        ],
+        "Features": [
+            "In-Store Shopping",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "http://www.agribar.pt",
+        "Phone": "+351 258 772 909",
+        "Full Address": "Cooperativa Agrícola de Barcelos - Armazém de Aldreu, R. de São Tiago 1045, 4905-016 Aldreu, Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.7145645,
+        "Latitude": 41.6041724,
+        "Email": "coop@agribar.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6pm\", \"Thursday\": \"8:30am-12:30pm, 2-6pm\", \"Friday\": \"8:30am-12:30pm, 2-6pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa Agrícola de Barcelos - Armazém da Sede",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.agribar.pt",
+        "Phone": "+351 253 808 900",
+        "Full Address": "Cooperativa Agrícola de Barcelos - Armazém da Sede, R. Fernando Magalhães 206, 4750-290 Barcelos, Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.6199815,
+        "Latitude": 41.5289019,
+        "Email": "coop@agribar.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 2-6pm\", \"Tuesday\": \"8:30am-12:30pm, 2-6pm\", \"Wednesday\": \"8:30am-12:30pm, 2-6pm\", \"Thursday\": \"8:30am-12:30pm, 2-6pm\", \"Friday\": \"8:30am-12:30pm, 2-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "NUTRIROSSIO Consultoria Agrícola",
+        "Services": [
+            "Agricultural service",
+            "Consultant",
+            "Farm shop",
+            "Farmers market",
+            "Organic farm",
+            "Organic shop"
+        ],
+        "Features": [
+            "Gender Neutral Restroom",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "Wheelchair Accessible Seating",
+            "Women Owned"
+        ],
+        "Website": "http://nutrirossio.pt",
+        "Phone": "+351 911 114 238",
+        "Full Address": "NUTRIROSSIO Consultoria Agrícola, Largo do Rossio 8, 2550-216 Cercal, Portugal",
+        "City": "Cadaval",
+        "District": "Lisboa",
+        "Longitude": -9.0010871,
+        "Latitude": 39.2363445,
+        "Email": "geral@nutrirossio.pt",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"9am-1pm, 3-7pm\", \"Wednesday\": \"9am-1pm, 3-7pm\", \"Thursday\": \"9am-1pm, 3-7pm\", \"Friday\": \"9am-1pm, 3-7pm\", \"Saturday\": \"9am-1pm, 3-7pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado de Espiche",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Mercado de Espiche, R. do Moinho 3, 8600-102 Luz, Portugal",
+        "City": "Lagos",
+        "District": "Faro",
+        "Longitude": -8.7373627,
+        "Latitude": 37.1021728,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Prazeres Farmer's Market",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Prazeres Farmer's Market, Caminho da Referta 144 9370, Prazeres, Portugal",
+        "City": "Calheta",
+        "District": "Madeira",
+        "Longitude": -17.2045144,
+        "Latitude": 32.7496433,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"8am-1pm\"}"
+    },
+    {
+        "Name": "Lobeira Holsteins",
+        "Services": [
+            "Cattle market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 919 698 938",
+        "Full Address": "Lobeira Holsteins, R. Principal 1121, 4755-120 Chorente, Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.613555,
+        "Latitude": 41.4492176,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"7:30am-7:30pm\", \"Tuesday\": \"7:30am-8:30pm\", \"Wednesday\": \"7:30am-8:30pm\", \"Thursday\": \"7:30am-8:30pm\", \"Friday\": \"7:30am-8:30pm\", \"Saturday\": \"7:30am-8:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Rogil monthly market (4th sunday)",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Rogil monthly market (4th sunday), R. das Escolas, 8670-440, Portugal",
+        "City": "Aljezur",
+        "District": "Faro",
+        "Longitude": -8.7995314,
+        "Latitude": 37.3650749,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "São Teotónio monthly Market (first Monday of each month)",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "São Teotónio monthly Market (first Monday of each month), R. 25 de Abril, 7630-174 S.Teotónio, Portugal",
+        "City": "Odemira",
+        "District": "Beja",
+        "Longitude": -8.7110049,
+        "Latitude": 37.5082165,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado Biológico de Matosinhos",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://lifecooler.com/artigo/atividades/mercado-biologico-de-matosinhos/405338",
+        "Phone": null,
+        "Full Address": "Mercado Biológico de Matosinhos, R. Cooperativa das 7 Bicas 190 3-A, 4460-212 Matosinhos, Portugal",
+        "City": "Matosinhos",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6639708,
+        "Latitude": 41.1899304,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "DATS, produtora de mirtilos",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 934 101 515",
+        "Full Address": "DATS, produtora de mirtilos, R. de Santo Estêvão 2266, 4620-615 Barrosas (Santo Estêvão), Portugal",
+        "City": "Lousada",
+        "District": "Distrito do Porto",
+        "Longitude": -8.2773341,
+        "Latitude": 41.331167,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8am-12pm, 2-6pm\", \"Tuesday\": \"8am-12pm, 2-6pm\", \"Wednesday\": \"8am-12pm, 2-6pm\", \"Thursday\": \"8am-12pm, 2-6pm\", \"Friday\": \"8am-12pm, 2-6pm\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Cooperativa Agrícola de Condeixa-a-Nova e Penela, C.R.L. - Loja de Penela",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 967 635 972",
+        "Full Address": "Cooperativa Agrícola de Condeixa-a-Nova e Penela, C.R.L. - Loja de Penela, R. Padre António Duarte Brázio 45, 3230-275 Penela, Portugal",
+        "City": "Penela",
+        "District": "Coimbra",
+        "Longitude": -8.390557,
+        "Latitude": 40.028016,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Fernando Jesus Maria Amaro",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 236 911 144",
+        "Full Address": "Fernando Jesus Maria Amaro, Largo de São Domingos 17, 3105, Portugal",
+        "City": "Pombal",
+        "District": "Leiria",
+        "Longitude": -8.5829793,
+        "Latitude": 40.0037069,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 2-7pm\", \"Tuesday\": \"9am-1pm, 2-7pm\", \"Wednesday\": \"9am-1pm, 2-7pm\", \"Thursday\": \"9am-1pm, 2-7pm\", \"Friday\": \"9am-1pm, 2-7pm\", \"Saturday\": \"9am-1pm, 2-7pm\", \"Sunday\": \"9am-1pm, 2-3pm\"}"
+    },
+    {
+        "Name": "Escrita do Campo",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 966 619 783",
+        "Full Address": "Escrita do Campo, R. Gil Fernandes 1, 7350-192 Elvas, Portugal",
+        "City": "Elvas",
+        "District": "Portalegre",
+        "Longitude": -7.1654527,
+        "Latitude": 38.8747698,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mercado da Alegria",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Credit Cards",
+            "Debit Cards",
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "http://www.agoraporto.pt/noticias-porto-lazer/mercado-leva-a-alegria-a-foz-do-douro",
+        "Phone": null,
+        "Full Address": "Mercado da Alegria, R. do Passeio Alegre, 4150-570 Porto, Portugal",
+        "City": "Porto",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6710383,
+        "Latitude": 41.1483075,
+        "Email": "mercadosalegria001@gmail.com",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"10am-6pm\"}"
+    },
+    {
+        "Name": "Antenor, Lda.",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 912 546 527",
+        "Full Address": "Antenor, Lda., 4535-214 Mozelos, Portugal",
+        "City": "Santa Maria da Feira",
+        "District": "Aveiro",
+        "Longitude": -8.5638609,
+        "Latitude": 40.9951629,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Mimagro - Loja tortosendo",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": "https://www.mimagro.pt",
+        "Phone": "+351 275 247 129",
+        "Full Address": "Mimagro - Loja tortosendo, Av. Viriato 110 R/C, 6200-727 Tortosendo, Portugal",
+        "City": "Covilhã",
+        "District": "Castelo Branco",
+        "Longitude": -7.5245433,
+        "Latitude": 40.2404468,
+        "Email": "geral@mimagro.pt",
+        "Operating Hours": "{\"Monday\": \"9am-12:45pm, 230-6:30pm\", \"Tuesday\": \"9am-12:45pm, 230-6:30pm\", \"Wednesday\": \"9am-12:45pm, 230-6:30pm\", \"Thursday\": \"9am-12:45pm, 230-6:30pm\", \"Friday\": \"9am-12:45pm, 230-6:30pm\", \"Saturday\": \"9am-12:45pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Drogaria Pimenta do Vale",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 929 442 306",
+        "Full Address": "Drogaria Pimenta do Vale, R. Infante Dom Henrique 36, 4750-251 Barcelos, Portugal",
+        "City": "Barcelos",
+        "District": "Braga",
+        "Longitude": -8.6215699,
+        "Latitude": 41.5293683,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"9am-1pm, 3-7pm\", \"Tuesday\": \"9am-1pm, 3-7pm\", \"Wednesday\": \"9am-1pm, 3-7pm\", \"Thursday\": \"9am-1pm, 3-7pm\", \"Friday\": \"9am-1pm, 3-7pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Agricultural",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 920 465 964",
+        "Full Address": "Agricultural, R. José Carlos Picão Caldeira, 7350-506 Portalegre, Portugal",
+        "City": "Elvas",
+        "District": "Portalegre",
+        "Longitude": -7.2919097,
+        "Latitude": 38.8712235,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Praça do peixe",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Praça do peixe, Praça Joaquim Bento, 2025-108 Alcanede, Portugal",
+        "City": "Santarém",
+        "District": "Santarém",
+        "Longitude": -8.8040242,
+        "Latitude": 39.413434,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Quinta Everywhere Sunshine 3",
+        "Services": [
+            "Farm"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Quinta Everywhere Sunshine 3, Estrada Nacional 112, 6000-631 Salgueiro do Campo, Portugal",
+        "City": "Castelo Branco",
+        "District": "Castelo Branco",
+        "Longitude": -7.5894603,
+        "Latitude": 39.9007778,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Rua do Centro Communitario",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Rua do Centro Communitario, R. do Centro Comunitario, 8135-128 Almancil, Portugal",
+        "City": "Loulé",
+        "District": "Faro",
+        "Longitude": -8.0347596,
+        "Latitude": 37.0855468,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-1pm\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Beelove.farm Shop",
+        "Services": [
+            "Farm shop",
+            "Farmers market",
+            "Store"
+        ],
+        "Features": [
+            "Free Parking Lot",
+            "Wheelchair Accessible Restroom",
+            "Wheelchair Accessible Seating",
+            "On-Site Parking"
+        ],
+        "Website": "https://beelove.farm",
+        "Phone": "+351 966 426 269",
+        "Full Address": "Beelove.farm Shop, Recinto Da Feira, Campo Do Santana, 9600-096 Rabo de Peixe, Portugal",
+        "City": "Ribeira Grande",
+        "District": "Azores",
+        "Longitude": -25.5632294,
+        "Latitude": 37.8089515,
+        "Email": "info@beelove.farm",
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"8am-12pm\", \"Friday\": \"Closed\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Loja Agrícola David Silva e Filipe Teixeira",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": "+351 232 393 590",
+        "Full Address": "Loja Agrícola David Silva e Filipe Teixeira, Estrada do Barracão, Barracão, 3570-211 Aguiar da Beira, Portugal",
+        "City": "Aguiar da Beira",
+        "District": "Distrito da Guarda",
+        "Longitude": -7.5057961,
+        "Latitude": 40.7900552,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-6pm\", \"Tuesday\": \"8:30am-6pm\", \"Wednesday\": \"8:30am-6pm\", \"Thursday\": \"8:30am-6pm\", \"Friday\": \"8:30am-6pm\", \"Saturday\": \"8:30am-12:30pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Campo dos Mártires da Pátria",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [],
+        "Website": null,
+        "Phone": null,
+        "Full Address": "Campo dos Mártires da Pátria, 132, 4050-367 Porto, Portugal",
+        "City": "Porto",
+        "District": "Distrito do Porto",
+        "Longitude": -8.6152852,
+        "Latitude": 41.1450972,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Closed\", \"Tuesday\": \"Closed\", \"Wednesday\": \"Closed\", \"Thursday\": \"Closed\", \"Friday\": \"Closed\", \"Saturday\": \"10am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Prorural, Lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Debit Cards",
+            "Free Parking Lot",
+            "In-Store Shopping",
+            "Restroom Available",
+            "Wheelchair Accessible Entrance",
+            "Wheelchair Accessible Parking",
+            "On-Site Services"
+        ],
+        "Website": "https://prorural.pt",
+        "Phone": "+351 963 324 244",
+        "Full Address": "Prorural, Lda, Zona Industrial do Lameirão Lt.13, 5130-351 São João da Pesqueira, Portugal",
+        "City": "São João da Pesqueira",
+        "District": "Viseu",
+        "Longitude": -7.4224103,
+        "Latitude": 41.1478195,
+        "Email": "geral@prorural.pt",
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 230-6:30pm\", \"Tuesday\": \"8:30am-12:30pm, 230-6:30pm\", \"Wednesday\": \"8:30am-12:30pm, 230-6:30pm\", \"Thursday\": \"8:30am-12:30pm, 230-6:30pm\", \"Friday\": \"8:30am-12:30pm, 230-6:30pm\", \"Saturday\": \"9am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Casa Agrícola das Cerdeirinhas",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Free Parking Lot",
+            "Free Street Parking",
+            "On-Site Parking"
+        ],
+        "Website": null,
+        "Phone": "+351 963 429 814",
+        "Full Address": "Casa Agrícola das Cerdeirinhas, Av. Entroncamento 191, 4850-422, Portugal",
+        "City": "Vieira do Minho",
+        "District": "Braga",
+        "Longitude": -8.196594,
+        "Latitude": 41.6330329,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"8:30am-12:30pm, 130-7pm\", \"Tuesday\": \"8:30am-12:30pm, 130-7pm\", \"Wednesday\": \"8:30am-12:30pm, 130-7pm\", \"Thursday\": \"8:30am-12:30pm, 130-7pm\", \"Friday\": \"8:30am-12:30pm, 130-7pm\", \"Saturday\": \"8:30am-1pm\", \"Sunday\": \"Closed\"}"
+    },
+    {
+        "Name": "Geofragaria Unipessoal Lda",
+        "Services": [
+            "Farmers market"
+        ],
+        "Features": [
+            "Wheelchair Accessible Entrance"
+        ],
+        "Website": "https://www.geofragaria.pt",
+        "Phone": "+351 914 198 998",
+        "Full Address": "Geofragaria Unipessoal Lda, Zona Industrial I Lt21, 3060-197 Cantanhede, Portugal",
+        "City": "Cantanhede",
+        "District": "Coimbra",
+        "Longitude": -8.6057204,
+        "Latitude": 40.356149,
+        "Email": null,
+        "Operating Hours": "{\"Monday\": \"Open 24 hours\", \"Tuesday\": \"Open 24 hours\", \"Wednesday\": \"Open 24 hours\", \"Thursday\": \"Open 24 hours\", \"Friday\": \"Open 24 hours\", \"Saturday\": \"Closed\", \"Sunday\": \"Closed\"}"
+    }
+]

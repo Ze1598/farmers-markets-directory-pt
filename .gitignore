@@ -1,0 +1,4 @@
+*.csv
+*.tsv
+farmers_markets_cleaned.json
+data.json

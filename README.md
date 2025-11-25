@@ -1,3 +1,3 @@
-# Farmers Markets Directory Portugal
+# Farmers Markets Portugal
 
-A curated directory of farmers markets, local producers, and sustainable food systems in Portugal.
+A comprehensive directory of farmers markets across Portugal, connecting consumers with local producers and fresh, seasonal food.

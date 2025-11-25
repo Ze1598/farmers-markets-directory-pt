@@ -302,10 +302,10 @@ function generateLocalBusinessSchema(project) {
     const schema = {
         "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "additionalType": "https://schema.org/AgriculturalBusiness",
+        "additionalType": "https://schema.org/FarmersMarket",
         "name": project['Project Name'],
         "url": project.Website || null,
-        "description": `Farmers Market in ${project.Country}. Types: ${project['Regenerative Practices'] ? project['Regenerative Practices'].join(', ') : ''}`,
+        "description": `Farmers market in ${project.City}, ${project.Country}. ${project['Regenerative Practices'] ? project['Regenerative Practices'].join(', ') : 'Local produce and artisan products'}`,
         "address": {
             "@type": "PostalAddress",
             "streetAddress": project['Full Address'],

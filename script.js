@@ -694,27 +694,52 @@ function updateMapMarkers() {
 
 // Create popup content for map markers
 function createMapPopupContent(project) {
+    let operatingHoursHTML = '';
+
+    if (project['Operating Hours']) {
+        try {
+            const hours = JSON.parse(project['Operating Hours']);
+            const daysOrder = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+
+            operatingHoursHTML = '<div class="popup-hours"><strong>Operating Hours:</strong><div class="popup-hours-list">';
+
+            daysOrder.forEach(day => {
+                if (hours[day]) {
+                    operatingHoursHTML += `<div class="popup-hours-row"><span class="popup-day">${day.substring(0, 3)}:</span> <span class="popup-time">${escapeHtml(hours[day])}</span></div>`;
+                }
+            });
+
+            operatingHoursHTML += '</div></div>';
+        } catch (e) {
+            console.error('Error parsing Operating Hours in popup:', e);
+        }
+    } else {
+        operatingHoursHTML = '<div class="popup-hours"><strong>Operating Hours:</strong> <span class="not-available">Not Available</span></div>';
+    }
+
     return `
         <div class="popup-content">
             <h3 class="popup-title">${escapeHtml(project['Project Name'])}</h3>
             <span class="popup-district">${escapeHtml(project.City)}</span>
-            
+
             <div class="popup-info">
                 <div class="popup-info-item">
                     <i class="fas fa-map-marker-alt popup-icon"></i>
                     <span>${escapeHtml(project.City)}${project.District ? `, ${escapeHtml(project.District)}` : ''}</span>
                 </div>
-                
+
                 <div class="popup-info-item">
                     <i class="fas fa-phone popup-icon"></i>
                     ${project.Phone ? `<a href="tel:${project.Phone}">${escapeHtml(project.Phone)}</a>` : '<span class="not-available">Not Available</span>'}
                 </div>
-                
+
                 <div class="popup-info-item">
                     <i class="fas fa-globe popup-icon"></i>
                     ${project.Website ? `<a href="${project.Website}" target="_blank" rel="noopener noreferrer">Website</a>` : '<span class="not-available">Not Available</span>'}
                 </div>
             </div>
+
+            ${operatingHoursHTML}
         </div>
     `;
 }
